@@ -69,6 +69,25 @@ function ActiveNavLinks() {
   return <NavLinks pathname={usePathname()} />;
 }
 
+/** Phones: the dock holds the everyday links and has no room for About, so it sits up here instead. */
+function AboutLink({ pathname }: { pathname: string | null }) {
+  const active = pathname != null && isActive(pathname, "/about");
+  return (
+    <DeferredLink
+      href="/about"
+      transitionTypes={["nav"]}
+      aria-current={active ? "page" : undefined}
+      className={cn("link-draw mr-1.5 text-[0.9375rem] md:hidden", active ? "text-text" : "text-muted hover:text-text")}
+    >
+      About
+    </DeferredLink>
+  );
+}
+
+function ActiveAboutLink() {
+  return <AboutLink pathname={usePathname()} />;
+}
+
 export function Nav() {
   const [scrolled, setScrolled] = useState(false);
 
@@ -119,6 +138,9 @@ export function Nav() {
         </nav>
 
         <div className="ml-auto flex items-center gap-1.5 md:gap-3">
+          <Suspense fallback={<AboutLink pathname={null} />}>
+            <ActiveAboutLink />
+          </Suspense>
           <SearchTrigger className="hidden lg:flex" />
           <ThemeToggle />
           <AccountSlot />

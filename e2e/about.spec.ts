@@ -117,9 +117,18 @@ test("about: sixteen chapters, the rail and counter, desktop and phone, reduced 
   // Links in: the nav, the footer, the landing page.
   await page.emulateMedia({ reducedMotion: "no-preference" });
   await page.goto("/");
-  await expect(page.getByRole("navigation", { name: "Primary" }).getByRole("link", { name: "About" })).toBeVisible();
+  await expect(page.getByRole("navigation", { name: "Primary" }).first().getByRole("link", { name: "About" })).toBeVisible();
   await expect(page.getByRole("contentinfo").getByRole("link", { name: "About Reverie" })).toBeAttached();
   await expect(page.getByRole("link", { name: "The whole story, chapter by chapter" })).toBeAttached();
+  // Phones: the dock has no About, so the top bar carries it, one tap from anywhere.
+  await page.setViewportSize({ width: 390, height: 844 });
+  const phoneAbout = page.getByRole("banner").getByRole("link", { name: "About", exact: true });
+  await expect(phoneAbout).toBeVisible();
+  await shot(page, "phone-topbar-about");
+  await phoneAbout.click();
+  await page.waitForURL((u) => u.pathname === "/about");
+  await expect(page.getByRole("banner").getByRole("link", { name: "About", exact: true })).toHaveAttribute("aria-current", "page");
+  await page.setViewportSize({ width: 1440, height: 900 });
 
   // The share image.
   const og = await fetch(`${BASE}/api/og/about`);
