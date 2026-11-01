@@ -1,0 +1,1002 @@
+{
+ "adult": false,
+ "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+ "belongs_to_collection": null,
+ "budget": 19000000,
+ "genres": [
+  {
+   "id": 16,
+   "name": "Animation"
+  },
+  {
+   "id": 10751,
+   "name": "Family"
+  },
+  {
+   "id": 14,
+   "name": "Fantasy"
+  }
+ ],
+ "homepage": "https://gkids.com/films/spirited-away",
+ "id": 129,
+ "imdb_id": "tt0245429",
+ "origin_country": [
+  "JP"
+ ],
+ "original_language": "ja",
+ "original_title": "千と千尋の神隠し",
+ "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+ "popularity": 47.8657,
+ "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+ "production_companies": [
+  {
+   "id": 10342,
+   "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+   "name": "Studio Ghibli",
+   "origin_country": "JP"
+  },
+  {
+   "id": 1779,
+   "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+   "name": "Tokuma Shoten",
+   "origin_country": "JP"
+  },
+  {
+   "id": 6755,
+   "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+   "name": "Nippon Television Network Corporation",
+   "origin_country": "JP"
+  },
+  {
+   "id": 11847,
+   "logo_path": "/gW5RN3ylzsAwQ1uGHBpezUZ0vXF.png",
+   "name": "Mitsubishi",
+   "origin_country": "JP"
+  },
+  {
+   "id": 1778,
+   "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+   "name": "dentsu",
+   "origin_country": "JP"
+  },
+  {
+   "id": 1780,
+   "logo_path": "/4Qzhr7FxVtaMwmsh7118G3yvOhO.png",
+   "name": "TFC",
+   "origin_country": "JP"
+  },
+  {
+   "id": 164892,
+   "logo_path": "/2wH2cZCfpQvMsWZCZbHFEJx0R86.png",
+   "name": "The Walt Disney Company (Japan)",
+   "origin_country": "JP"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "JP",
+   "name": "Japan"
+  }
+ ],
+ "release_date": "2001-07-20",
+ "revenue": 274925095,
+ "runtime": 125,
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "Japanese",
+   "iso_639_1": "ja",
+   "name": "日本語"
+  }
+ ],
+ "status": "Released",
+ "tagline": "Prepare to be spirited away.",
+ "title": "Spirited Away",
+ "video": false,
+ "vote_average": 8.536,
+ "vote_count": 19100,
+ "credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 19587,
+    "known_for_department": "Acting",
+    "name": "Rumi Hiiragi",
+    "original_name": "柊瑠美",
+    "popularity": 2.1098,
+    "profile_path": "/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg",
+    "cast_id": 3,
+    "character": "Chihiro (voice)",
+    "credit_id": "52fe421bc3a36847f8004a97",
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 19588,
+    "known_for_department": "Acting",
+    "name": "Miyu Irino",
+    "original_name": "入野自由",
+    "popularity": 2.587,
+    "profile_path": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+    "cast_id": 4,
+    "character": "Haku (voice)",
+    "credit_id": "52fe421bc3a36847f8004a9b",
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 19589,
+    "known_for_department": "Acting",
+    "name": "Mari Natsuki",
+    "original_name": "夏木マリ",
+    "popularity": 2.3562,
+    "profile_path": "/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg",
+    "cast_id": 5,
+    "character": "Yubaba / Zeniba (voice)",
+    "credit_id": "52fe421bc3a36847f8004a9f",
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 19590,
+    "known_for_department": "Acting",
+    "name": "Takashi Naito",
+    "original_name": "内藤剛志",
+    "popularity": 2.7889,
+    "profile_path": "/xwsm0ygjG79jLIogutwo6r64igy.jpg",
+    "cast_id": 6,
+    "character": "Father (voice)",
+    "credit_id": "52fe421bc3a36847f8004aa3",
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 19591,
+    "known_for_department": "Acting",
+    "name": "Yasuko Sawaguchi",
+    "original_name": "沢口靖子",
+    "popularity": 2.4689,
+    "profile_path": "/rWspusb13VeJowmctnniXYYTcqq.jpg",
+    "cast_id": 7,
+    "character": "Mother (voice)",
+    "credit_id": "52fe421bc3a36847f8004aa7",
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 19592,
+    "known_for_department": "Acting",
+    "name": "Tatsuya Gashuin",
+    "original_name": "我修院達也",
+    "popularity": 1.6168,
+    "profile_path": "/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg",
+    "cast_id": 8,
+    "character": "Aogaeru (voice)",
+    "credit_id": "52fe421bc3a36847f8004aab",
+    "order": 5
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 225730,
+    "known_for_department": "Acting",
+    "name": "Ryunosuke Kamiki",
+    "original_name": "神木隆之介",
+    "popularity": 2.9154,
+    "profile_path": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
+    "cast_id": 30,
+    "character": "Boh (voice)",
+    "credit_id": "52fe421bc3a36847f8004b17",
+    "order": 6
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 19594,
+    "known_for_department": "Acting",
+    "name": "Yumi Tamai",
+    "original_name": "玉井夕海",
+    "popularity": 1.3757,
+    "profile_path": "/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg",
+    "cast_id": 10,
+    "character": "Rin (voice)",
+    "credit_id": "52fe421bc3a36847f8004aaf",
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 40450,
+    "known_for_department": "Acting",
+    "name": "Yo Oizumi",
+    "original_name": "大泉洋",
+    "popularity": 2.1744,
+    "profile_path": "/qw5KLuww2AEAk6JEssEkJY3wBn1.jpg",
+    "cast_id": 25,
+    "character": "Bandai Frog (voice)",
+    "credit_id": "52fe421bc3a36847f8004b07",
+    "order": 8
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 554423,
+    "known_for_department": "Acting",
+    "name": "Koba Hayashi",
+    "original_name": "はやし・こば",
+    "popularity": 0.8688,
+    "profile_path": "/ceQ58tRgqMZ9gePHg8xkKarZm0M.jpg",
+    "cast_id": 26,
+    "character": "River Spirit (voice)",
+    "credit_id": "52fe421bc3a36847f8004b0b",
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 20334,
+    "known_for_department": "Acting",
+    "name": "Tsunehiko Kamijô",
+    "original_name": "上條恒彦",
+    "popularity": 2.2911,
+    "profile_path": "/v2poQi0qYEWdTaMf2pVTWmcdwZp.jpg",
+    "cast_id": 27,
+    "character": "Chichiyaku (voice)",
+    "credit_id": "52fe421bc3a36847f8004b0f",
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 544088,
+    "known_for_department": "Acting",
+    "name": "Takehiko Ono",
+    "original_name": "小野武彦",
+    "popularity": 1.9289,
+    "profile_path": "/8gcT8znk0l3YVZKvL7eVxYublTl.jpg",
+    "cast_id": 28,
+    "character": "Aniyaku (voice)",
+    "credit_id": "52fe421bc3a36847f8004b13",
+    "order": 11
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 119243,
+    "known_for_department": "Acting",
+    "name": "Bunta Sugawara",
+    "original_name": "菅原文太",
+    "popularity": 2.1192,
+    "profile_path": "/lHPLlP8zNwGMmcUI8rGks5vp8Vn.jpg",
+    "cast_id": 31,
+    "character": "Kamaji (voice)",
+    "credit_id": "52fe421bc3a36847f8004b1b",
+    "order": 12
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1530058,
+    "known_for_department": "Production",
+    "name": "Shigeru Wakita",
+    "original_name": "脇田茂",
+    "popularity": 0.799,
+    "profile_path": "/6iFm0U12QGmKDizbn08WqO1WXCU.jpg",
+    "cast_id": 97,
+    "character": "(voice)",
+    "credit_id": "5fb05ded3a48c5003c7d7a18",
+    "order": 13
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1243817,
+    "known_for_department": "Acting",
+    "name": "Shirou Saitou",
+    "original_name": "斎藤志郎",
+    "popularity": 1.8431,
+    "profile_path": "/yJSrzULl9EuXI25E8REdIPY1Lkm.jpg",
+    "cast_id": 98,
+    "character": "(voice)",
+    "credit_id": "5fb05df6c15f89003f838bc5",
+    "order": 14
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 636,
+    "known_for_department": "Sound",
+    "name": "Joe Hisaishi",
+    "original_name": "久石譲",
+    "popularity": 1.9646,
+    "profile_path": "/xmDT8LoDPIyV4f7Q2yPwETSey6k.jpg",
+    "credit_id": "52fe421bc3a36847f8004ac1",
+    "department": "Sound",
+    "job": "Original Music Composer"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 608,
+    "known_for_department": "Directing",
+    "name": "Hayao Miyazaki",
+    "original_name": "宮崎駿",
+    "popularity": 5.418,
+    "profile_path": "/ouhjt9KugzhWtdEyBPipihB3ic8.jpg",
+    "credit_id": "52fe421bc3a36847f8004a8d",
+    "department": "Directing",
+    "job": "Director"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 19596,
+    "known_for_department": "Camera",
+    "name": "Atsushi Okui",
+    "original_name": "奥井敦",
+    "popularity": 1.0221,
+    "profile_path": "/2SunqP3hrO3mNx9rrUu6uccNPtH.jpg",
+    "credit_id": "52fe421bc3a36847f8004ac7",
+    "department": "Camera",
+    "job": "Director of Photography"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 608,
+    "known_for_department": "Directing",
+    "name": "Hayao Miyazaki",
+    "original_name": "宮崎駿",
+    "popularity": 5.418,
+    "profile_path": "/ouhjt9KugzhWtdEyBPipihB3ic8.jpg",
+    "credit_id": "69939e113fbae15df32af8dc",
+    "department": "Writing",
+    "job": "Screenplay"
+   }
+  ]
+ },
+ "keywords": {
+  "keywords": [
+   {
+    "id": 616,
+    "name": "witch"
+   },
+   {
+    "id": 970,
+    "name": "parent child relationship"
+   },
+   {
+    "id": 3762,
+    "name": "darkness"
+   },
+   {
+    "id": 4652,
+    "name": "bath house"
+   },
+   {
+    "id": 2343,
+    "name": "magic"
+   },
+   {
+    "id": 13153,
+    "name": "spirit"
+   },
+   {
+    "id": 33465,
+    "name": "parallel world"
+   },
+   {
+    "id": 155582,
+    "name": "amusement park"
+   },
+   {
+    "id": 196509,
+    "name": "youkai"
+   },
+   {
+    "id": 207695,
+    "name": "japanese mythology"
+   },
+   {
+    "id": 210024,
+    "name": "anime"
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt0245429",
+  "wikidata_id": "Q155653",
+  "facebook_id": null,
+  "instagram_id": null,
+  "twitter_id": null
+ },
+ "release_dates": {
+  "results": [
+   {
+    "iso_3166_1": "GB",
+    "release_dates": [
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2003-09-12T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "DVD",
+      "release_date": "2004-03-29T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Blu-ray",
+      "release_date": "2017-03-13T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2008-01-26T00:00:00.000Z",
+      "type": 6
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "IN",
+    "release_dates": [
+     {
+      "certification": "",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Netflix",
+      "release_date": "2020-03-01T00:00:00.000Z",
+      "type": 4
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "US",
+    "release_dates": [
+     {
+      "certification": "",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "San Francisco International Film Festival",
+      "release_date": "2002-04-02T00:00:00.000Z",
+      "type": 1
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2002-09-20T00:00:00.000Z",
+      "type": 2
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Studio Ghibli Fest",
+      "release_date": "2025-10-18T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2019-12-17T00:00:00.000Z",
+      "type": 4
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "DVD / VHS",
+      "release_date": "2003-04-15T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Blu-ray / DVD",
+      "release_date": "2015-06-16T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Turner Classic Movies",
+      "release_date": "2006-01-05T00:00:00.000Z",
+      "type": 6
+     }
+    ]
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Official Trailer [Subtitled]",
+    "key": "GAp2_0JJskk",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Trailer",
+    "official": true,
+    "id": "65605c163679a10976465e74",
+    "published_at": "2023-11-23T22:00:09.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Ghibli Fest 2023 Trailer",
+    "key": "F-X_81GZ2Uo",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Trailer",
+    "official": true,
+    "id": "65697e6a71f09500feb7e679",
+    "published_at": "2023-09-29T16:14:50.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Studio Ghibli Fest 2022 Spot",
+    "key": "oZzFsv22wqI",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Teaser",
+    "official": true,
+    "id": "633c313d175051008e17fb08",
+    "published_at": "2022-10-03T22:28:55.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Lin Guides Chihiro Through The Bathhouse",
+    "key": "W5szC4XgR1s",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Clip",
+    "official": true,
+    "id": "62eb43fb8566d2005a486b43",
+    "published_at": "2022-07-26T20:47:22.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Official Trailer",
+    "key": "ByXuk9QqQkk",
+    "site": "YouTube",
+    "size": 720,
+    "type": "Trailer",
+    "official": true,
+    "id": "592c5d16c3a36877bc0817da",
+    "published_at": "2014-09-17T05:26:18.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/2vc5hXc4pMXcKOOsOuyI2MQ1AdK.jpg",
+    "id": 100271,
+    "title": "A Letter to Momo",
+    "original_title": "ももへの手紙",
+    "overview": "A shy 11-year-old's life takes a strange turn when she discovers three hungry goblins living in the attic of her new house. She misses her old life. She misses her father so very much. Until she makes some new ghoulish friends.",
+    "poster_path": "/uH4c5t3Wzzv41Wq9ws2Q47N1Dzo.jpg",
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+     35,
+     14,
+     16,
+     18,
+     10751
+    ],
+    "popularity": 4.963,
+    "release_date": "2012-04-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 417
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/hs83YRbjzi5JFaLbyxZti5q4ZPi.jpg",
+    "id": 573683,
+    "title": "The Wonderland",
+    "original_title": "バースデー・ワンダーランド",
+    "overview": "The story follows Akane, a girl with no self-confidence. On the day before her birthday, she meets a mysterious alchemist, Hippocrates, and his student, Pipo, who both tell her they're on a mission to save the world. Together, they set out from the basement for \"Wonderland,\" and Akane finds herself labelled Wonderland's savior.",
+    "poster_path": "/psWXyFQfIvcKYx1tzJaqVlHXXzH.jpg",
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     14,
+     10751
+    ],
+    "popularity": 4.06,
+    "release_date": "2019-04-26",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.367,
+    "vote_count": 109
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/b3RGeMU6IdVFvKitGtXtUh2iuZN.jpg",
+    "id": 1358305,
+    "title": "A Tooth Fairy Tale",
+    "original_title": "A Tooth Fairy Tale",
+    "overview": "Van, the brave son of a tooth fairy leader, meets the goblins girl Gemma on his first mission. Despite the myths about ancient disputes between fairies and goblins, they share common values. When the greedy Spider Queen threatens both tribes, they must work together.",
+    "poster_path": "/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     14,
+     10751
+    ],
+    "popularity": 3.412,
+    "release_date": "2025-05-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.507,
+    "vote_count": 67
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/yPRnoFEhj09i824pqmE2cwfedsN.jpg",
+    "id": 430447,
+    "title": "Mary and The Witch's Flower",
+    "original_title": "メアリと魔女の花",
+    "overview": "Mary Smith, a young girl who lives with her great-aunt in the countryside, follows a mysterious cat into the nearby forest where she finds a strange flower and an old broom, none of which is as ordinary as it seems.",
+    "poster_path": "/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg",
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     12,
+     10751,
+     14
+    ],
+    "popularity": 6.5435,
+    "release_date": "2017-07-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.17,
+    "vote_count": 949
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
+    "id": 683127,
+    "title": "Earwig and the Witch",
+    "original_title": "アーヤと魔女",
+    "overview": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch.",
+    "poster_path": "/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     14,
+     10751,
+     10402,
+     35
+    ],
+    "popularity": 7.5485,
+    "release_date": "2021-02-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.919,
+    "vote_count": 320
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+    "id": 10882,
+    "title": "Sleeping Beauty",
+    "original_title": "Sleeping Beauty",
+    "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+    "poster_path": "/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     14,
+     16,
+     10749,
+     10751
+    ],
+    "popularity": 23.7413,
+    "release_date": "1959-02-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.946,
+    "vote_count": 5622
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+    "id": 76492,
+    "title": "Hotel Transylvania",
+    "original_title": "Hotel Transylvania",
+    "overview": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+    "poster_path": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     35,
+     10751,
+     14
+    ],
+    "popularity": 22.5395,
+    "release_date": "2012-09-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.97,
+    "vote_count": 9442
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
+    "id": 116711,
+    "title": "Epic",
+    "original_title": "Epic",
+    "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world—and ours.",
+    "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     12,
+     10751,
+     14
+    ],
+    "popularity": 12.5706,
+    "release_date": "2013-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.569,
+    "vote_count": 3040
+   }
+  ],
+  "total_pages": 28,
+  "total_results": 559
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+    "genre_ids": [
+     16,
+     878,
+     9648,
+     18
+    ],
+    "id": 36865,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "original_language": "ja",
+    "original_title": "涼宮ハルヒの消失",
+    "overview": "A week before Christmas, Kyon wakes up in a world where the SOS Brigade doesn't exist. Mikuru and Yuki don't recognize him, and Haruhi and Itsuki seem to have vanished.",
+    "popularity": 4.0399,
+    "poster_path": "/x52WmUnfpB2AB0YUNGWJZaRzcBx.jpg",
+    "release_date": "2010-02-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.888,
+    "vote_count": 299
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/3c4BQzT0sS09IA5gRtJFIgyh95b.jpg",
+    "genre_ids": [
+     16,
+     28,
+     14
+    ],
+    "id": 37100,
+    "title": "Sailor Moon R: The Movie - The Promise of the Rose",
+    "original_language": "ja",
+    "original_title": "劇場版 美少女戦士セーラームーンR",
+    "overview": "While enjoying the flower gardens, Sailor Moon and friends encounter an old childhood friend of Mamoru's: an alien! He's come back to give Mamoru a special flower but doesn't like Usagi and the rest of the planet's inhabitants. Sailor Moon must defend the earth from the evil Kisenian Flower he's brought back... before the evil vines and blossoms overrun the planet!",
+    "popularity": 3.8584,
+    "poster_path": "/sOsEDVFv2dJ8sI77XzQ2SeqRObZ.jpg",
+    "release_date": "1993-12-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 193
+   },
+   {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+     35,
+     16
+    ],
+    "id": 484075,
+    "title": "gdgd Fairies the Movie: Is It Alright for Such a Movie...?",
+    "original_language": "ja",
+    "original_title": "劇場版gdgd妖精s っていう映画はどうかな…？",
+    "overview": "Movie of gdgd Fairies.",
+    "popularity": 2.1214,
+    "poster_path": "/wEXNV0dbFjoZXandPfkOzEcG9xn.jpg",
+    "release_date": "2014-09-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 3
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/Zry1RSsBtPe4clVRyIx07QfZ3w.jpg",
+    "genre_ids": [
+     27,
+     18,
+     14
+    ],
+    "id": 37977,
+    "title": "The Black Cat",
+    "original_language": "en",
+    "original_title": "Il gatto nero",
+    "overview": "When a horror film based on the same source material as Suspiria and Inferno goes into production, the evil witch the story is based upon manifests herself and not only begins to terrorise the actress set to portray her on screen, but reveals plans to wreck havoc and bloodshed throughout the world.",
+    "popularity": 1.9076,
+    "poster_path": "/puXEtuvFr9FFrZ2sTB7VRKN1eR8.jpg",
+    "release_date": "1989-04-09",
+    "softcore": false,
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 29
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/b1CEejB82HcpoPdtHWAHOPWboJH.jpg",
+    "genre_ids": [
+     28,
+     16,
+     35,
+     878
+    ],
+    "id": 301470,
+    "title": "Moldiver",
+    "original_language": "ja",
+    "original_title": "モルダイバー",
+    "overview": "A naïve young girl accidentally modifies her brother's secret superhero uniform and becomes the unwilling superheroine Moldiver.",
+    "popularity": 1.8462,
+    "poster_path": "/9YZrnEs1DCD5BLyIsOOaz9zKdvJ.jpg",
+    "release_date": "1993-06-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 4.1,
+    "vote_count": 7
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/tW9s9cWKBHeDpLhGAQ6TxVYphTb.jpg",
+    "genre_ids": [
+     16,
+     28,
+     14
+    ],
+    "id": 1067282,
+    "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
+    "original_language": "ja",
+    "original_title": "「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+    "overview": "A recap of Kimetsu no Yaiba episodes 43–45, with new footage and special end credits. Together with his comrades, Zenitsu and Inosuke, along with one of the top-ranking members of the Demon Slayer Corps, Tengen Uzui, Tanjiro embarks on a mission within the Entertainment District, where they encounter the formidable, high-ranking demons, Daki and Gyutaro.",
+    "popularity": 5.6575,
+    "poster_path": "/hEhGrcST85vMd63PBDgPBqih2tR.jpg",
+    "release_date": "2023-02-03",
+    "softcore": false,
+    "video": true,
+    "vote_average": 7.309,
+    "vote_count": 418
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/a5RUcA815Po5o34Bac6BuKv9hcK.jpg",
+    "genre_ids": [
+     12,
+     10751,
+     14
+    ],
+    "id": 301825,
+    "title": "Bibi & Tina: Bewildered and Bewitched",
+    "original_language": "de",
+    "original_title": "Bibi & Tina - Voll verhext!",
+    "overview": "When robbers hit Falkenstein castle, teen witch Bibi and pal Tina hunt for the crooks, then devise a plan to save the neighbors' failing ranch.",
+    "popularity": 3.3205,
+    "poster_path": "/lqjDGwx2khUFfvY1aDXaUGIgq1t.jpg",
+    "release_date": "2014-12-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 68
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/kTdmdPxl1gVPObxsffaOex6n3Vt.jpg",
+    "genre_ids": [
+     16,
+     10749,
+     18
+    ],
+    "id": 38142,
+    "title": "5 Centimeters per Second",
+    "original_language": "ja",
+    "original_title": "秒速5センチメートル",
+    "overview": "Three moments in Takaki's life: his relationship with Akari and their forced separation; his friendship with Kanae, who is secretly in love with him; the demands and disappointments of adulthood, an unhappy life in a cold city.",
+    "popularity": 7.5601,
+    "poster_path": "/dFipUR6W0y3PPkuVS8gjFd929m2.jpg",
+    "release_date": "2007-03-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.295,
+    "vote_count": 2237
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "ZeBlah",
+    "author_details": {
+     "name": "ZeBlah",
+     "username": "TheBlah",
+     "avatar_path": "/d7rZv7xFhXHy0OLbVc2byJiZwEU.jpg",
+     "rating": 10
+    },
+    "content": "One of the great \"masters\" of the anime art. Somehow, if I would personally associate \"Akira\" to \"self-destruction\", then this anime would be the opposite :)",
+    "created_at": "2019-06-29T20:24:51Z",
+    "id": "5d17c91385702e001eb921db",
+    "updated_at": "2021-06-23T15:58:23Z",
+    "url": "https://www.themoviedb.org/review/5d17c91385702e001eb921db"
+   },
+   {
+    "author": "CinemaSerf",
+    "author_details": {
+     "name": "CinemaSerf",
+     "username": "Geronimo1967",
+     "avatar_path": "/9HcQx0Yfbxy8eqr3ft66X9uWMf0.jpg",
+     "rating": 7
+    },
+    "content": "I quite liked the look of the new house that \"Chihiro\" and her parents were to move to, but she isn't so keen, and being ten had the weight of the world on her shoulders. En route to meet the removal men, her dad takes a wrong turning and soon, together with her mum, end up at the end of a tunnel. What would you do? Go in of course! Luckily it's quite a short walk before they find themselves in a small village that's full of shops all laid out for a banquet. Mum and dad tuck in but the young girl just wants to get going. Ignored, she explores a little as they gorge themselves and that's when s",
+    "created_at": "2024-12-28T16:43:49Z",
+    "id": "67702ac55f1c4fa473612f7a",
+    "updated_at": "2024-12-28T16:43:49Z",
+    "url": "https://www.themoviedb.org/review/67702ac55f1c4fa473612f7a"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+ }
+}

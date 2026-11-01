@@ -1,0 +1,113 @@
+{
+ "id": 68721,
+ "results": {
+  "IN": {
+   "link": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=IN",
+   "rent": [
+    {
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "provider_id": 192,
+     "provider_name": "YouTube",
+     "display_priority": 9
+    }
+   ],
+   "flatrate": [
+    {
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "provider_id": 2336,
+     "provider_name": "JioHotstar",
+     "display_priority": 3
+    },
+    {
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "provider_id": 614,
+     "provider_name": "VI movies and tv",
+     "display_priority": 34
+    }
+   ],
+   "buy": [
+    {
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "provider_id": 192,
+     "provider_name": "YouTube",
+     "display_priority": 9
+    }
+   ]
+  },
+  "US": {
+   "link": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=US",
+   "rent": [
+    {
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "provider_id": 10,
+     "provider_name": "Amazon Video",
+     "display_priority": 10
+    },
+    {
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "provider_id": 2,
+     "provider_name": "Apple TV Store",
+     "display_priority": 11
+    },
+    {
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "provider_id": 3,
+     "provider_name": "Google Play Movies",
+     "display_priority": 22
+    },
+    {
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "provider_id": 192,
+     "provider_name": "YouTube",
+     "display_priority": 23
+    },
+    {
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "provider_id": 7,
+     "provider_name": "Fandango At Home",
+     "display_priority": 39
+    }
+   ],
+   "flatrate": [
+    {
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "provider_id": 337,
+     "provider_name": "Disney Plus",
+     "display_priority": 5
+    }
+   ],
+   "buy": [
+    {
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "provider_id": 10,
+     "provider_name": "Amazon Video",
+     "display_priority": 10
+    },
+    {
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "provider_id": 2,
+     "provider_name": "Apple TV Store",
+     "display_priority": 11
+    },
+    {
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "provider_id": 3,
+     "provider_name": "Google Play Movies",
+     "display_priority": 22
+    },
+    {
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "provider_id": 192,
+     "provider_name": "YouTube",
+     "display_priority": 23
+    },
+    {
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "provider_id": 7,
+     "provider_name": "Fandango At Home",
+     "display_priority": 39
+    }
+   ]
+  }
+ }
+}

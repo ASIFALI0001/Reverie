@@ -1,0 +1,1311 @@
+{
+ "adult": false,
+ "backdrop_path": "/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+ "created_by": [
+  {
+   "id": 1190517,
+   "credit_id": "5253483c19c29579400de990",
+   "name": "Michael Dante DiMartino",
+   "original_name": "Michael Dante DiMartino",
+   "gender": 2,
+   "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+  },
+  {
+   "id": 1190518,
+   "credit_id": "5253483c19c29579400de996",
+   "name": "Bryan Konietzko",
+   "original_name": "Bryan Konietzko",
+   "gender": 2,
+   "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+  }
+ ],
+ "episode_run_time": [
+  24
+ ],
+ "first_air_date": "2005-02-21",
+ "genres": [
+  {
+   "id": 16,
+   "name": "Animation"
+  },
+  {
+   "id": 10759,
+   "name": "Action & Adventure"
+  },
+  {
+   "id": 10765,
+   "name": "Sci-Fi & Fantasy"
+  }
+ ],
+ "homepage": "https://www.nick.com/shows/avatar-the-last-airbender",
+ "id": 246,
+ "in_production": false,
+ "languages": [
+  "en"
+ ],
+ "last_air_date": "2008-07-19",
+ "last_episode_to_air": {
+  "id": 13575,
+  "name": "Sozin's Comet: Avatar Aang (4)",
+  "overview": "Aang is on the offensive after getting hit in the back of his scar and triggering the Avatar State. Meanwhile, after Zuko seems to have the upper hand against Azula, Katara is forced to join the fight when Azula resorts to desperate measures.",
+  "vote_average": 9.358,
+  "vote_count": 81,
+  "air_date": "2008-07-19",
+  "episode_number": 21,
+  "episode_type": "finale",
+  "production_code": "321",
+  "runtime": 24,
+  "season_number": 3,
+  "show_id": 246,
+  "still_path": "/4a93Ud89t51LcvyiDTtWFRscUhE.jpg"
+ },
+ "name": "Avatar: The Last Airbender",
+ "next_episode_to_air": null,
+ "networks": [
+  {
+   "id": 13,
+   "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+   "name": "Nickelodeon",
+   "origin_country": "US"
+  }
+ ],
+ "number_of_episodes": 61,
+ "number_of_seasons": 3,
+ "origin_country": [
+  "US"
+ ],
+ "original_language": "en",
+ "original_name": "Avatar: The Last Airbender",
+ "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+ "popularity": 55.7862,
+ "poster_path": "/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+ "production_companies": [
+  {
+   "id": 4859,
+   "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+   "name": "Nickelodeon Animation Studio",
+   "origin_country": "US"
+  },
+  {
+   "id": 8032,
+   "logo_path": null,
+   "name": "JM Animation",
+   "origin_country": "KR"
+  },
+  {
+   "id": 43756,
+   "logo_path": "/bwwJk6P9hycQGwUbWFj07cfyCG4.png",
+   "name": "DR Movie",
+   "origin_country": "KR"
+  },
+  {
+   "id": 8410,
+   "logo_path": null,
+   "name": "Moi Animation",
+   "origin_country": "KR"
+  },
+  {
+   "id": 5371,
+   "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+   "name": "Nickelodeon Productions",
+   "origin_country": "US"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "KR",
+   "name": "South Korea"
+  },
+  {
+   "iso_3166_1": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso_3166_1": "MY",
+   "name": "Malaysia"
+  },
+  {
+   "iso_3166_1": "SG",
+   "name": "Singapore"
+  }
+ ],
+ "seasons": [
+  {
+   "air_date": "2002-04-30",
+   "episode_count": 24,
+   "id": 788,
+   "name": "Specials",
+   "overview": "Unaired Pilot, Recaps, Specials and DVD extras.",
+   "poster_path": "/qDll9gvIj9vVcgQKtbkad0390kP.jpg",
+   "season_number": 0,
+   "vote_average": 0
+  },
+  {
+   "air_date": "2005-02-21",
+   "episode_count": 20,
+   "id": 785,
+   "name": "Book One: Water",
+   "overview": "Katara and Sokka (a brother and sister from the Southern Water Tribe) discover the Avatar (a 12-year-old Airbender boy named Aang) frozen in an iceberg. Together the three begin their journey to the North Pole to find a master waterbender so Aang can begin his Avatar training!",
+   "poster_path": "/tUG6h0rMtQyOgvqI8r9AqxlKoUP.jpg",
+   "season_number": 1,
+   "vote_average": 8
+  },
+  {
+   "air_date": "2006-03-17",
+   "episode_count": 20,
+   "id": 787,
+   "name": "Book Two: Earth",
+   "overview": "Aang, along with Katara, Sokka, and their animal friends Appa and Momo, continues on his quest to fulfill his destiny as the Avatar. According to the Avatar cycle, the group must now enter the Earth Kingdom to search for a master earthbender to teach Aang.",
+   "poster_path": "/quX70K1L7vTLQ9vRJcK0kKcNNFA.jpg",
+   "season_number": 2,
+   "vote_average": 8.3
+  },
+  {
+   "air_date": "2007-09-21",
+   "episode_count": 21,
+   "id": 786,
+   "name": "Book Three: Fire",
+   "overview": "Aang wakes up from his battle with Azula to discover that Ba Sing Se has fallen and the world thinks he's dead. So he and his friends set off undercover across the Fire Nation to find Fire Lord Ozai before the Day of Black Sun. Prince Zuko returns home as the triumphant son, but soon finds the honor he so greatly craved from his father is worthless. New alliances are formed and Team Avatar forges a new plan to stop the Fire Lord. But will they find him in time?",
+   "poster_path": "/roPE4jaHawj1Dm6uIXJHuLDpkNy.jpg",
+   "season_number": 3,
+   "vote_average": 8.4
+  }
+ ],
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "English",
+   "iso_639_1": "en",
+   "name": "English"
+  }
+ ],
+ "status": "Ended",
+ "tagline": "Water. Earth. Fire. Air.",
+ "type": "Scripted",
+ "vote_average": 8.784,
+ "vote_count": 5185,
+ "aggregate_credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 60251,
+    "known_for_department": "Acting",
+    "name": "Zach Tyler Eisen",
+    "original_name": "Zach Tyler Eisen",
+    "popularity": 3.0207,
+    "profile_path": "/ifHd2Yoovlvu6FFEIxUsXVyrYUf.jpg",
+    "total_episode_count": 61,
+    "roles": [
+     {
+      "credit_id": "5253483519c29579400de740",
+      "character": "Aang (voice)",
+      "episode_count": 61
+     }
+    ],
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 52404,
+    "known_for_department": "Acting",
+    "name": "Mae Whitman",
+    "original_name": "Mae Whitman",
+    "popularity": 4.2155,
+    "profile_path": "/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg",
+    "total_episode_count": 61,
+    "roles": [
+     {
+      "credit_id": "5253483519c29579400de75e",
+      "character": "Katara (voice)",
+      "episode_count": 61
+     }
+    ],
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 60230,
+    "known_for_department": "Acting",
+    "name": "Jack De Sena",
+    "original_name": "Jack De Sena",
+    "popularity": 1.456,
+    "profile_path": "/i9VlMsPol6XIicnRZRiwmYSyE4P.jpg",
+    "total_episode_count": 61,
+    "roles": [
+     {
+      "credit_id": "5253483719c29579400de85c",
+      "character": "Sokka (voice)",
+      "episode_count": 61
+     }
+    ],
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 13391,
+    "known_for_department": "Acting",
+    "name": "Dante Basco",
+    "original_name": "Dante Basco",
+    "popularity": 2.5538,
+    "profile_path": "/2bfQho7MEo4wAQTmC687FkXUoKU.jpg",
+    "total_episode_count": 61,
+    "roles": [
+     {
+      "credit_id": "5253483519c29579400de790",
+      "character": "Zuko (voice)",
+      "episode_count": 61
+     }
+    ],
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 23680,
+    "known_for_department": "Acting",
+    "name": "Dee Bradley Baker",
+    "original_name": "Dee Bradley Baker",
+    "popularity": 2.8881,
+    "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+    "total_episode_count": 61,
+    "roles": [
+     {
+      "credit_id": "5253483719c29579400de8b4",
+      "character": "Appa / Momo (voice)",
+      "episode_count": 61
+     }
+    ],
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 61304,
+    "known_for_department": "Acting",
+    "name": "Michaela Jill Murphy",
+    "original_name": "Michaela Jill Murphy",
+    "popularity": 2.0513,
+    "profile_path": "/4ghTS2mkdfHt4vNHIzDIyU1mVxT.jpg",
+    "total_episode_count": 42,
+    "roles": [
+     {
+      "credit_id": "5253483719c29579400de87a",
+      "character": "Toph Beifong (voice)",
+      "episode_count": 41
+     },
+     {
+      "credit_id": "5253481a19c29579400dd162",
+      "character": "Meng (voice)",
+      "episode_count": 1
+     }
+    ],
+    "order": 173
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 10134,
+    "known_for_department": "Acting",
+    "name": "Mako",
+    "original_name": "Mako",
+    "popularity": 2.3733,
+    "profile_path": "/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg",
+    "total_episode_count": 40,
+    "roles": [
+     {
+      "credit_id": "5253483719c29579400de896",
+      "character": "Iroh (voice)",
+      "episode_count": 40
+     }
+    ],
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1214812,
+    "known_for_department": "Acting",
+    "name": "Cricket Leigh",
+    "original_name": "Cricket Leigh",
+    "popularity": 0.5747,
+    "profile_path": "/aEzjB7HIX3FXVy9jwWe5ofuWwlA.jpg",
+    "total_episode_count": 13,
+    "roles": [
+     {
+      "credit_id": "5253483a19c29579400de916",
+      "character": "Mai (voice)",
+      "episode_count": 13
+     }
+    ],
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 15761,
+    "known_for_department": "Acting",
+    "name": "Grey DeLisle",
+    "original_name": "Grey DeLisle",
+    "popularity": 3.4961,
+    "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+    "total_episode_count": 13,
+    "roles": [
+     {
+      "credit_id": "65be12c76c449c017c8cf64f",
+      "character": "Azula / Blue Dragon (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "65be07a71dbc8801631bf0c7",
+      "character": "Azula / Michi / Additional Voices (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "5253483919c29579400de8f6",
+      "character": "Azula (voice)",
+      "episode_count": 13
+     },
+     {
+      "credit_id": "687c06dcf56b89c49b528888",
+      "character": "Azula / Kya (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "687c0d3528a6b89656d98989",
+      "character": "Azula / Banished Servant (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "687bff7e01f7d024388a4517",
+      "character": "Azula / Ta Min (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "65be0aef12c6040162ff8a03",
+      "character": "Azula / Additional Voices (voice)",
+      "episode_count": 2
+     }
+    ],
+    "order": 491
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 116437,
+    "known_for_department": "Acting",
+    "name": "Olivia Hack",
+    "original_name": "Olivia Hack",
+    "popularity": 1.7398,
+    "profile_path": "/vHiz3YSzQfnPAvqVt0W3f3eERWK.jpg",
+    "total_episode_count": 10,
+    "roles": [
+     {
+      "credit_id": "5253483a19c29579400de934",
+      "character": "Ty Lee (voice)",
+      "episode_count": 10
+     }
+    ],
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 2,
+    "known_for_department": "Acting",
+    "name": "Mark Hamill",
+    "original_name": "Mark Hamill",
+    "popularity": 4.5047,
+    "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+    "total_episode_count": 10,
+    "roles": [
+     {
+      "credit_id": "687bf25580971a73a352879e",
+      "character": "Ozai / Baboon Spirit (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "5ff8daf7383df2003e327b44",
+      "character": "Ozai (voice)",
+      "episode_count": 9
+     }
+    ],
+    "order": 581
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 183582,
+    "known_for_department": "Acting",
+    "name": "Jennie Kwan",
+    "original_name": "Jennie Kwan",
+    "popularity": 0.8983,
+    "profile_path": "/pSYDpPy6orupf5JpqNYUfx8XK4g.jpg",
+    "total_episode_count": 10,
+    "roles": [
+     {
+      "credit_id": "687c09c32e48947adff76301",
+      "character": "Suki / Actress Yue (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "65be0d62a7e36301b7540dc1",
+      "character": "Suki (voice)",
+      "episode_count": 9
+     }
+    ],
+    "order": 624
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 30697,
+    "known_for_department": "Acting",
+    "name": "Jim Meskimen",
+    "original_name": "Jim Meskimen",
+    "popularity": 1.9807,
+    "profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+    "total_episode_count": 10,
+    "roles": [
+     {
+      "credit_id": "687bdccc98c597f11a8a4372",
+      "character": "Lt. Jee (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "687bf79c3fea9c7de9169c3b",
+      "character": "General How (voice)",
+      "episode_count": 2
+     },
+     {
+      "credit_id": "687c0aef6585bd4edbd98886",
+      "character": "Avatar Kuruk (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "687bdb6dcd0a0d7884f7626c",
+      "character": "Additional Voices (voice)",
+      "episode_count": 5
+     },
+     {
+      "credit_id": "5253481719c29579400dcfc9",
+      "character": "Fire Nation Soldier (voice)",
+      "episode_count": 1
+     }
+    ],
+    "order": 657
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 177588,
+    "known_for_department": "Acting",
+    "name": "André Sogliuzzo",
+    "original_name": "André Sogliuzzo",
+    "popularity": 1.036,
+    "profile_path": "/lrebAFDCMthLuq6Oyzraac8MzQL.jpg",
+    "total_episode_count": 8,
+    "roles": [
+     {
+      "credit_id": "687bd953807abd7583d987b9",
+      "character": "Captain (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "5253483c19c29579400de976",
+      "character": "Hakoda (voice)",
+      "episode_count": 8
+     },
+     {
+      "credit_id": "687c0d08aaded2ad66528797",
+      "character": "King Bumi / Dai Li Captain (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "65be0798ba4802018269c4d8",
+      "character": "King Bumi (voice)",
+      "episode_count": 3
+     }
+    ],
+    "order": 378
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1190522,
+    "known_for_department": "Acting",
+    "name": "Greg Baldwin",
+    "original_name": "Greg Baldwin",
+    "popularity": 0.7893,
+    "profile_path": "/e8uUOVj8l2ZWY1RapVoQH0SES2a.jpg",
+    "total_episode_count": 8,
+    "roles": [
+     {
+      "credit_id": "5f259ea18d1b8e00346acfd3",
+      "character": "Iroh (voice)",
+      "episode_count": 6
+     },
+     {
+      "credit_id": "687c0051d43cbc8a1355c8ab",
+      "character": "Combustion Man (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "687c04442b930fb6d5528799",
+      "character": "Iroh / Combustion Man (voice)",
+      "episode_count": 1
+     },
+     {
+      "credit_id": "65be1095902012017ccade20",
+      "character": "Additional Voices (voice)",
+      "episode_count": 2
+     }
+    ],
+    "order": 545
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1450350,
+    "known_for_department": "Writing",
+    "name": "Heiko von Drengenberg",
+    "original_name": "Heiko von Drengenberg",
+    "popularity": 0.9985,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "5523e3659251416d4a00474b",
+      "job": "Layout",
+      "episode_count": 21
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 21
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 515867,
+    "known_for_department": "Directing",
+    "name": "Giancarlo Volpe",
+    "original_name": "Giancarlo Volpe",
+    "popularity": 1.3457,
+    "profile_path": "/eEIo6aXPMxIpG6kYnTTkeEgNa9Z.jpg",
+    "jobs": [
+     {
+      "credit_id": "5d40df2f9cc67b00137887e1",
+      "job": "Director",
+      "episode_count": 19
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 19
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 204553,
+    "known_for_department": "Directing",
+    "name": "Ethan Spaulding",
+    "original_name": "Ethan Spaulding",
+    "popularity": 1.4765,
+    "profile_path": "/wLTbLnSJ1jnjA2YOHOPqz2g0XNe.jpg",
+    "jobs": [
+     {
+      "credit_id": "604a1f9966a0d3006efb0e81",
+      "job": "Director",
+      "episode_count": 12
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 12
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1214800,
+    "known_for_department": "Directing",
+    "name": "Lauren MacMullan",
+    "original_name": "Lauren MacMullan",
+    "popularity": 0.6986,
+    "profile_path": "/1K55bVLf94SdhCvrti5QW0GRMr0.jpg",
+    "jobs": [
+     {
+      "credit_id": "5253481419c29579400dce71",
+      "job": "Director",
+      "episode_count": 10
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 10
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 71538,
+    "known_for_department": "Writing",
+    "name": "Dave Filoni",
+    "original_name": "Dave Filoni",
+    "popularity": 1.3337,
+    "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg",
+    "jobs": [
+     {
+      "credit_id": "5ec0723e3d3557001dded742",
+      "job": "Director",
+      "episode_count": 9
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 9
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 89596,
+    "known_for_department": "Directing",
+    "name": "Joaquim Dos Santos",
+    "original_name": "Joaquim Dos Santos",
+    "popularity": 1.9409,
+    "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+    "jobs": [
+     {
+      "credit_id": "5253481f19c29579400dd3c8",
+      "job": "Director",
+      "episode_count": 8
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 8
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1214801,
+    "known_for_department": "Directing",
+    "name": "Anthony Lioi",
+    "original_name": "Anthony Lioi",
+    "popularity": 0.5671,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "5253481619c29579400dcee7",
+      "job": "Director",
+      "episode_count": 2
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 2
+   },
+   {
+    "adult": false,
+    "gender": 0,
+    "id": 1412808,
+    "known_for_department": "Directing",
+    "name": "Chris Graham",
+    "original_name": "Chris Graham",
+    "popularity": 0.6619,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "5d40e58d34e1525defecf77f",
+      "job": "Assistant Director",
+      "episode_count": 1
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1190517,
+    "known_for_department": "Production",
+    "name": "Michael Dante DiMartino",
+    "original_name": "Michael Dante DiMartino",
+    "popularity": 2.0671,
+    "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg",
+    "jobs": [
+     {
+      "credit_id": "5253483319c29579400de62b",
+      "job": "Director",
+      "episode_count": 1
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 1
+   },
+   {
+    "adult": false,
+    "gender": 0,
+    "id": 1636081,
+    "known_for_department": "Directing",
+    "name": "Kenji Ono",
+    "original_name": "Kenji Ono",
+    "popularity": 0.6748,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "5d40e5c7b87aec7c803aaa9c",
+      "job": "Assistant Director",
+      "episode_count": 1
+     }
+    ],
+    "department": "Directing",
+    "total_episode_count": 1
+   }
+  ]
+ },
+ "keywords": {
+  "results": [
+   {
+    "name": "saving the world",
+    "id": 83
+   },
+   {
+    "name": "monk",
+    "id": 345
+   },
+   {
+    "name": "martial arts",
+    "id": 779
+   },
+   {
+    "name": "asia",
+    "id": 1293
+   },
+   {
+    "name": "magic",
+    "id": 2343
+   },
+   {
+    "name": "villain",
+    "id": 3289
+   },
+   {
+    "name": "child hero",
+    "id": 3650
+   },
+   {
+    "name": "reincarnation",
+    "id": 5484
+   },
+   {
+    "name": "friendship",
+    "id": 6054
+   },
+   {
+    "name": "honor",
+    "id": 9812
+   },
+   {
+    "name": "destiny",
+    "id": 40850
+   },
+   {
+    "name": "anime inspired",
+    "id": 327471
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt0417299",
+  "freebase_mid": "/m/05h95s",
+  "freebase_id": "/en/avatar_the_last_airbender",
+  "tvdb_id": 74852,
+  "tvrage_id": 2680,
+  "wikidata_id": "Q11572",
+  "facebook_id": "avatarthelastairbender",
+  "instagram_id": "avatarthelastairbender",
+  "twitter_id": null
+ },
+ "content_ratings": {
+  "results": [
+   {
+    "descriptors": [],
+    "iso_3166_1": "US",
+    "rating": "TV-Y7"
+   },
+   {
+    "descriptors": [],
+    "iso_3166_1": "GB",
+    "rating": "U"
+   },
+   {
+    "descriptors": [],
+    "iso_3166_1": "IN",
+    "rating": "U"
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Episode Opening Credits",
+    "key": "d1EnW4kn1kg",
+    "site": "YouTube",
+    "size": 480,
+    "type": "Opening Credits",
+    "official": true,
+    "id": "5a8b78039251410a1f081de0",
+    "published_at": "2016-03-10T18:24:31.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
+    "id": 82452,
+    "name": "Avatar: The Last Airbender",
+    "original_name": "Avatar: The Last Airbender",
+    "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+    "poster_path": "/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     10759,
+     10765,
+     18,
+     10751
+    ],
+    "popularity": 62.1573,
+    "first_air_date": "2024-02-22",
+    "softcore": false,
+    "vote_average": 7.766,
+    "vote_count": 1399,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "id": 33880,
+    "name": "The Legend of Korra",
+    "original_name": "The Legend of Korra",
+    "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+    "poster_path": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     10765
+    ],
+    "popularity": 74.9638,
+    "first_air_date": "2012-04-14",
+    "softcore": false,
+    "vote_average": 8.217,
+    "vote_count": 2461,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "id": 284833,
+    "name": "Avatar: Seven Havens",
+    "original_name": "Avatar: Seven Havens",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "poster_path": "/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     10765,
+     10751
+    ],
+    "popularity": 133.5099,
+    "first_air_date": "2026-10-09",
+    "softcore": false,
+    "vote_average": 9.083,
+    "vote_count": 114,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
+    "id": 138503,
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "original_name": "Your Friendly Neighborhood Spider-Man",
+    "overview": "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.",
+    "poster_path": "/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     10765
+    ],
+    "popularity": 32.709,
+    "first_air_date": "2025-01-29",
+    "softcore": false,
+    "vote_average": 7.8,
+    "vote_count": 309,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+    "id": 94810,
+    "name": "Adventure Time: Distant Lands",
+    "original_name": "Adventure Time: Distant Lands",
+    "overview": "Based on the animated series Adventure Time, these four specials explore the unseen corners of the world with both familiar and exciting brand-new characters.",
+    "poster_path": "/qoxFg9236pkpkBuUbqudPTIHlnW.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     35,
+     10765,
+     10751
+    ],
+    "popularity": 17.4936,
+    "first_air_date": "2020-06-25",
+    "softcore": false,
+    "vote_average": 8.163,
+    "vote_count": 563,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/j7FL6KfjEjrGSXt6peQw7U3VL0R.jpg",
+    "id": 129959,
+    "name": "Kung Fu Panda: The Dragon Knight",
+    "original_name": "Kung Fu Panda: The Dragon Knight",
+    "overview": "Follow the adventures of Po, who partners up with a no-nonsense English knight named Wandering Blade to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.",
+    "poster_path": "/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     35,
+     10762,
+     10765
+    ],
+    "popularity": 28.1699,
+    "first_air_date": "2022-07-14",
+    "softcore": false,
+    "vote_average": 7.5,
+    "vote_count": 257,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/s3q3RhMEyOIM0QaDNbceIAZawLp.jpg",
+    "id": 15804,
+    "name": "Batman: The Brave and the Bold",
+    "original_name": "Batman: The Brave and the Bold",
+    "overview": "The Caped Crusader is teamed up with Blue Beetle, Green Arrow, Aquaman and countless others in his quest to uphold justice.",
+    "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10759,
+     10765
+    ],
+    "popularity": 44.0799,
+    "first_air_date": "2008-11-14",
+    "softcore": false,
+    "vote_average": 7.642,
+    "vote_count": 295,
+    "origin_country": [
+     "US"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/Ab6nBFxS8TCiYhFCoqe2ue7qEb6.jpg",
+    "id": 1931,
+    "name": "Disney's Adventures of the Gummi Bears",
+    "original_name": "Disney's Adventures of the Gummi Bears",
+    "overview": "Join the world’s sweetest heroes for high adventure in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil. Meet Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the legendary Gummis as they laugh, play, foil dastardly plots, and fight for what's right.",
+    "poster_path": "/6bVHyql7fIA6DA7BTKw9sw4tSIx.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10751,
+     10762,
+     10765,
+     10759
+    ],
+    "popularity": 38.0718,
+    "first_air_date": "1985-09-14",
+    "softcore": false,
+    "vote_average": 7.5,
+    "vote_count": 282,
+    "origin_country": [
+     "US"
+    ]
+   }
+  ],
+  "total_pages": 27,
+  "total_results": 529
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/jlbUB9YAmPNEK3QSbJpjokkM1bu.jpg",
+    "genre_ids": [
+     18,
+     10759,
+     10765
+    ],
+    "id": 1469,
+    "origin_country": [
+     "US"
+    ],
+    "original_language": "en",
+    "original_name": "Birds of Prey",
+    "overview": "The series is set in New Gotham City, several years after it has been apparently abandoned by Batman. In his absence, Huntress, Oracle and Dinah are now the protectors of New Gotham: the Birds of Prey, and had taken over his war on crime.  They are joined by Alfred Pennyworth, who serves Helena as she is heir to the Wayne estate; and Detective Jesse Reese, a police officer confronted with crimes and abilities he cannot explain.",
+    "popularity": 16.4416,
+    "poster_path": "/gXeFSST0xqy5XNgrbuEaa5BxvDM.jpg",
+    "first_air_date": "2002-10-09",
+    "softcore": false,
+    "name": "Birds of Prey",
+    "vote_average": 6.2,
+    "vote_count": 96
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/tKrWxPuqYwr7bvOE93JVCz44GmC.jpg",
+    "genre_ids": [
+     10759,
+     18,
+     37,
+     10765
+    ],
+    "id": 1472,
+    "origin_country": [
+     "US"
+    ],
+    "original_language": "en",
+    "original_name": "Kung Fu",
+    "overview": "The adventures of a Shaolin Monk as he wanders the American West armed only with his skill in Kung Fu.",
+    "popularity": 1.7119,
+    "poster_path": "/vUqmS40PRyAe3COHh7wHpDFnspC.jpg",
+    "first_air_date": "1972-10-14",
+    "softcore": false,
+    "name": "Kung Fu",
+    "vote_average": 7.66,
+    "vote_count": 244
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/ngq0PKrjUyoVBmeMTbkM8FQoa2N.jpg",
+    "genre_ids": [
+     10765,
+     18
+    ],
+    "id": 60557,
+    "origin_country": [
+     "US"
+    ],
+    "original_language": "en",
+    "original_name": "Witches of East End",
+    "overview": "The adventures of Joanna Beauchamp and her two adult daughters Freya and Ingrid -- both of whom unknowingly are their family's next generation of witches -- who lead seemingly quiet, uneventful modern day lives in Long Island's secluded seaside town of East Haven. When Freya becomes engaged to a young, wealthy newcomer, a series of events forces Joanna to admit to her daughters they are, in fact, powerful and immortal witches.",
+    "popularity": 15.9769,
+    "poster_path": "/jBWSp8hw8CNUFWxTCawXzAhu2Hj.jpg",
+    "first_air_date": "2013-10-06",
+    "softcore": false,
+    "name": "Witches of East End",
+    "vote_average": 7.3,
+    "vote_count": 258
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/piMRImsn3ZQerFmPdAoXgmOpc7R.jpg",
+    "genre_ids": [
+     16,
+     35,
+     10765
+    ],
+    "id": 127714,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "異世界おじさん",
+    "overview": "After being in a coma for 17 years, Takafumi's middle-aged uncle suddenly wakes up speaking an unrecognizable language and wielding magical powers.",
+    "popularity": 19.9982,
+    "poster_path": "/ixYH9Ngm3IcPtK4964jbvB0Czi9.jpg",
+    "first_air_date": "2022-07-06",
+    "softcore": false,
+    "name": "Uncle from Another World",
+    "vote_average": 7.5,
+    "vote_count": 164
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "genre_ids": [
+     16,
+     10759,
+     10765
+    ],
+    "id": 127532,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "俺だけレベルアップな件",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "popularity": 66.6123,
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "first_air_date": "2024-01-07",
+    "softcore": false,
+    "name": "Solo Leveling",
+    "vote_average": 8.685,
+    "vote_count": 2055
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/rk0x5IkdFPN3tZnPSDSEaOeVAea.jpg",
+    "genre_ids": [
+     10751,
+     16,
+     10765,
+     10762
+    ],
+    "id": 1529,
+    "origin_country": [
+     "CA",
+     "DK",
+     "US",
+     "LU"
+    ],
+    "original_language": "en",
+    "original_name": "Trollz",
+    "overview": "Trollz is an American animated television series produced by DiC Entertainment and features the adventures of five fictional teenage girls, who call themselves the Best Friends for Life, who use magic to help them with their everyday life as well as battling whatever magical creatures and problems they may find themselves up against. These trollz were based on the troll doll created in the 1960s becoming one of the biggest fads in the world.",
+    "popularity": 5.3624,
+    "poster_path": "/kTsB0wkdWVkGZgAYQLtRllDGuk3.jpg",
+    "first_air_date": "2005-11-22",
+    "softcore": false,
+    "name": "Trollz",
+    "vote_average": 5.2,
+    "vote_count": 11
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/hw6u2G5z6nm9XuwRC4Q2UefKBxI.jpg",
+    "genre_ids": [
+     10765,
+     16,
+     10759
+    ],
+    "id": 94456,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "天空戦記シュラト 創世への暗闘",
+    "overview": "Lakshu senses a strange and expanding sohma in the human world. She is sure that it isn't the dark sohma of the forces of Azra, but is unable to identify what exactly it is. To prevent what could be a threat to our world, Lakshu sends the divine guardians of the Heavenly Sphere to investigate the strange occurrence. The sequel to \"Legend of Heavenly Sphere Shurato\".",
+    "popularity": 4.1453,
+    "poster_path": "/100fRkgRIDKmad2ayzmaCQu6BDA.jpg",
+    "first_air_date": "1991-09-16",
+    "softcore": false,
+    "name": "Legend of Heavenly Sphere Shurato: The Secret Feud of Creation",
+    "vote_average": 8,
+    "vote_count": 4
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/ykK9VfewaHyzqUSbiSPKFKfPfk.jpg",
+    "genre_ids": [
+     16,
+     10759
+    ],
+    "id": 94388,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ジビエート",
+    "overview": "In 2030, Japan. A virus has infected humans throughout the world. Infected people turn into different forms of monsters based on their ages, sexes and races. The virus is named 'Gibia' - after being rich in variety like gibia. Just then, a pair of samurai and ninja appeared in such a blighted wasteland of Japan. They both traveled from the early Edo period, fighting together with help from a doctor who tries to find cure for Gibia. Facing ceaseless attacks from Gibias, and outlaws that attack travelers for food, they start the dangerous journey with enemies all around.",
+    "popularity": 7.3538,
+    "poster_path": "/6AaCfEMkJlKxiFLchVmhJi7eDzb.jpg",
+    "first_air_date": "2020-07-15",
+    "softcore": false,
+    "name": "Gibiate",
+    "vote_average": 7,
+    "vote_count": 57
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "The_1st_Avatar",
+    "author_details": {
+     "name": "",
+     "username": "The_1st_Avatar",
+     "avatar_path": null,
+     "rating": 10
+    },
+    "content": "Amazingly good and great and cool and....(ect)",
+    "created_at": "2023-09-05T04:51:08Z",
+    "id": "64f6b3bcffc9de00c4a10fe8",
+    "updated_at": "2023-09-05T14:57:14Z",
+    "url": "https://www.themoviedb.org/review/64f6b3bcffc9de00c4a10fe8"
+   },
+   {
+    "author": "rmorell1",
+    "author_details": {
+     "name": "",
+     "username": "rmorell1",
+     "avatar_path": null,
+     "rating": 10
+    },
+    "content": "Still holds up almost 20 years later. The animation is still so rich and impactful, and perfectly matched to the sound effects. Even the story and jokes hold up like a fine wine. It would make sense to reboot/remake this if it had aged poorly and needed a refresh, but why attempt to mimic perfection? The only acceptable remake I still hope for would be a 1:1 remake with even higher quality animation, but I don't think the industry has any intention of staying true to the original work with all these remakes. If only they might have the original thought of telling a different story inside the a",
+    "created_at": "2024-03-26T22:20:37Z",
+    "id": "66034a35770700017c10c992",
+    "updated_at": "2024-04-08T16:17:24Z",
+    "url": "https://www.themoviedb.org/review/66034a35770700017c10c992"
+   },
+   {
+    "author": "wuffmoviecritic",
+    "author_details": {
+     "name": "",
+     "username": "wuffmoviecritic",
+     "avatar_path": null,
+     "rating": 10
+    },
+    "content": "Just watched the new Netflix adaption and it's ok, but just made me want to rewatch this!",
+    "created_at": "2024-03-26T22:45:43Z",
+    "id": "660350177f6c8d017c753f9d",
+    "updated_at": "2024-04-08T16:17:38Z",
+    "url": "https://www.themoviedb.org/review/660350177f6c8d017c753f9d"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+ }
+}

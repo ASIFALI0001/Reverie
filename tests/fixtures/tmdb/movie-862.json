@@ -1,0 +1,1110 @@
+{
+ "adult": false,
+ "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+ "belongs_to_collection": {
+  "id": 10194,
+  "name": "Toy Story Collection",
+  "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+  "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+ },
+ "budget": 30000000,
+ "genres": [
+  {
+   "id": 10751,
+   "name": "Family"
+  },
+  {
+   "id": 35,
+   "name": "Comedy"
+  },
+  {
+   "id": 16,
+   "name": "Animation"
+  },
+  {
+   "id": 12,
+   "name": "Adventure"
+  }
+ ],
+ "homepage": "http://toystory.disney.com/toy-story",
+ "id": 862,
+ "imdb_id": "tt0114709",
+ "origin_country": [
+  "US"
+ ],
+ "original_language": "en",
+ "original_title": "Toy Story",
+ "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+ "popularity": 36.9987,
+ "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+ "production_companies": [
+  {
+   "id": 3,
+   "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+   "name": "Pixar",
+   "origin_country": "US"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "US",
+   "name": "United States of America"
+  }
+ ],
+ "release_date": "1995-11-22",
+ "revenue": 401157969,
+ "runtime": 81,
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "English",
+   "iso_639_1": "en",
+   "name": "English"
+  }
+ ],
+ "status": "Released",
+ "tagline": "Hang on for the comedy that goes to infinity and beyond!",
+ "title": "Toy Story",
+ "video": false,
+ "vote_average": 7.99,
+ "vote_count": 20722,
+ "credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 31,
+    "known_for_department": "Acting",
+    "name": "Tom Hanks",
+    "original_name": "Tom Hanks",
+    "popularity": 13.2298,
+    "profile_path": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+    "cast_id": 14,
+    "character": "Woody (voice)",
+    "credit_id": "52fe4284c3a36847f8024f95",
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12898,
+    "known_for_department": "Acting",
+    "name": "Tim Allen",
+    "original_name": "Tim Allen",
+    "popularity": 3.2969,
+    "profile_path": "/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg",
+    "cast_id": 15,
+    "character": "Buzz Lightyear (voice)",
+    "credit_id": "52fe4284c3a36847f8024f99",
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7167,
+    "known_for_department": "Acting",
+    "name": "Don Rickles",
+    "original_name": "Don Rickles",
+    "popularity": 1.8899,
+    "profile_path": "/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg",
+    "cast_id": 16,
+    "character": "Mr. Potato Head (voice)",
+    "credit_id": "52fe4284c3a36847f8024f9d",
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12899,
+    "known_for_department": "Acting",
+    "name": "Jim Varney",
+    "original_name": "Jim Varney",
+    "popularity": 2.0591,
+    "profile_path": "/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg",
+    "cast_id": 17,
+    "character": "Slinky Dog (voice)",
+    "credit_id": "52fe4284c3a36847f8024fa1",
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12900,
+    "known_for_department": "Acting",
+    "name": "Wallace Shawn",
+    "original_name": "Wallace Shawn",
+    "popularity": 3.3767,
+    "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg",
+    "cast_id": 18,
+    "character": "Rex (voice)",
+    "credit_id": "52fe4284c3a36847f8024fa5",
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7907,
+    "known_for_department": "Acting",
+    "name": "John Ratzenberger",
+    "original_name": "John Ratzenberger",
+    "popularity": 2.7488,
+    "profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+    "cast_id": 19,
+    "character": "Hamm (voice)",
+    "credit_id": "52fe4284c3a36847f8024fa9",
+    "order": 5
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 8873,
+    "known_for_department": "Acting",
+    "name": "Annie Potts",
+    "original_name": "Annie Potts",
+    "popularity": 3.7242,
+    "profile_path": "/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg",
+    "cast_id": 20,
+    "character": "Bo Peep (voice)",
+    "credit_id": "52fe4284c3a36847f8024fad",
+    "order": 6
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1116442,
+    "known_for_department": "Acting",
+    "name": "John Morris",
+    "original_name": "John Morris",
+    "popularity": 0.7887,
+    "profile_path": "/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg",
+    "cast_id": 26,
+    "character": "Andy (voice)",
+    "credit_id": "52fe4284c3a36847f8024fc1",
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12901,
+    "known_for_department": "Acting",
+    "name": "Erik von Detten",
+    "original_name": "Erik von Detten",
+    "popularity": 2.2938,
+    "profile_path": "/v0ruIqUUZqXRWTsuui5irfsHMJe.jpg",
+    "cast_id": 22,
+    "character": "Sid (voice)",
+    "credit_id": "52fe4284c3a36847f8024fb1",
+    "order": 8
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 12133,
+    "known_for_department": "Acting",
+    "name": "Laurie Metcalf",
+    "original_name": "Laurie Metcalf",
+    "popularity": 2.8519,
+    "profile_path": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg",
+    "cast_id": 23,
+    "character": "Mrs. Davis (voice)",
+    "credit_id": "52fe4284c3a36847f8024fb5",
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 8655,
+    "known_for_department": "Acting",
+    "name": "R. Lee Ermey",
+    "original_name": "R. Lee Ermey",
+    "popularity": 2.3464,
+    "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg",
+    "cast_id": 24,
+    "character": "Sergeant (voice)",
+    "credit_id": "52fe4284c3a36847f8024fb9",
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 12903,
+    "known_for_department": "Acting",
+    "name": "Sarah Rayne",
+    "original_name": "Sarah Rayne",
+    "popularity": 1.2015,
+    "profile_path": null,
+    "cast_id": 25,
+    "character": "Hannah (voice)",
+    "credit_id": "52fe4284c3a36847f8024fbd",
+    "order": 11
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 37221,
+    "known_for_department": "Acting",
+    "name": "Penn Jillette",
+    "original_name": "Penn Jillette",
+    "popularity": 1.4978,
+    "profile_path": "/lxMpWaVKyeqZCxENRo1wu13iSTS.jpg",
+    "cast_id": 27,
+    "character": "TV Announcer (voice)",
+    "credit_id": "52fe4284c3a36847f8024fc5",
+    "order": 12
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 19545,
+    "known_for_department": "Acting",
+    "name": "Jack Angel",
+    "original_name": "Jack Angel",
+    "popularity": 1.5197,
+    "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg",
+    "cast_id": 300,
+    "character": "Shark / Rocky Gibraltar (voice)",
+    "credit_id": "5aa599ad9251412787027f71",
+    "order": 13
+   },
+   {
+    "adult": false,
+    "gender": 0,
+    "id": 1266092,
+    "known_for_department": "Acting",
+    "name": "Spencer Aste",
+    "original_name": "Spencer Aste",
+    "popularity": 0.505,
+    "profile_path": null,
+    "cast_id": 301,
+    "character": "Wounded Soldier (voice)",
+    "credit_id": "5aa599edc3a3687bfc02cbf2",
+    "order": 14
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12893,
+    "known_for_department": "Writing",
+    "name": "Alec Sokolow",
+    "original_name": "Alec Sokolow",
+    "popularity": 1.8232,
+    "profile_path": "/ybsb65XLyziKqXwWN3DcqSaquJx.jpg",
+    "credit_id": "52fe4284c3a36847f8024f61",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12892,
+    "known_for_department": "Writing",
+    "name": "Joel Cohen",
+    "original_name": "Joel Cohen",
+    "popularity": 1.4237,
+    "profile_path": "/5cDxA7JhOpv6p0joavNMnmUCzMX.jpg",
+    "credit_id": "52fe4284c3a36847f8024f5b",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 12891,
+    "known_for_department": "Writing",
+    "name": "Joss Whedon",
+    "original_name": "Joss Whedon",
+    "popularity": 2.678,
+    "profile_path": "/tAcIXWQWgGzoSsw2BUBuDbCGgii.jpg",
+    "credit_id": "52fe4284c3a36847f8024f4f",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7879,
+    "known_for_department": "Production",
+    "name": "John Lasseter",
+    "original_name": "John Lasseter",
+    "popularity": 2.9993,
+    "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+    "credit_id": "52fe4284c3a36847f8024f49",
+    "department": "Directing",
+    "job": "Director"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7,
+    "known_for_department": "Writing",
+    "name": "Andrew Stanton",
+    "original_name": "Andrew Stanton",
+    "popularity": 2.8228,
+    "profile_path": "/fo6ePCWEVB0L1sccrvB99Iaoqcg.jpg",
+    "credit_id": "52fe4284c3a36847f8024f55",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7885,
+    "known_for_department": "Sound",
+    "name": "Randy Newman",
+    "original_name": "Randy Newman",
+    "popularity": 1.014,
+    "profile_path": "/4tdkQXQEHY4B9V3RobHqpfQAKSg.jpg",
+    "credit_id": "5aa728a50e0a263dc4015a07",
+    "department": "Sound",
+    "job": "Original Music Composer"
+   }
+  ]
+ },
+ "keywords": {
+  "keywords": [
+   {
+    "id": 10084,
+    "name": "rescue"
+   },
+   {
+    "id": 6054,
+    "name": "friendship"
+   },
+   {
+    "id": 10364,
+    "name": "mission"
+   },
+   {
+    "id": 931,
+    "name": "jealousy"
+   },
+   {
+    "id": 3289,
+    "name": "villain"
+   },
+   {
+    "id": 6733,
+    "name": "bullying"
+   },
+   {
+    "id": 8102,
+    "name": "elementary school"
+   },
+   {
+    "id": 9823,
+    "name": "rivalry"
+   },
+   {
+    "id": 11477,
+    "name": "anthropomorphism"
+   },
+   {
+    "id": 9713,
+    "name": "friends"
+   },
+   {
+    "id": 10159,
+    "name": "computer animation"
+   },
+   {
+    "id": 15214,
+    "name": "buddy"
+   },
+   {
+    "id": 33553,
+    "name": "walkie talkie"
+   },
+   {
+    "id": 158141,
+    "name": "toy car"
+   },
+   {
+    "id": 165503,
+    "name": "boy next door"
+   },
+   {
+    "id": 170722,
+    "name": "new toy"
+   },
+   {
+    "id": 180523,
+    "name": "neighborhood"
+   },
+   {
+    "id": 187065,
+    "name": "toy comes to life"
+   },
+   {
+    "id": 242792,
+    "name": "resourcefulness"
+   },
+   {
+    "id": 265589,
+    "name": "toy"
+   },
+   {
+    "id": 278823,
+    "name": "3d animation"
+   },
+   {
+    "id": 338822,
+    "name": "pixar"
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt0114709",
+  "wikidata_id": "Q171048",
+  "facebook_id": "pixartoystory",
+  "instagram_id": "toystory",
+  "twitter_id": "toystory"
+ },
+ "release_dates": {
+  "results": [
+   {
+    "iso_3166_1": "GB",
+    "release_dates": [
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "1996-03-22T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "PG",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "DVD",
+      "release_date": "2000-11-06T00:00:00.000Z",
+      "type": 5
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "US",
+    "release_dates": [
+     {
+      "certification": "",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Hollywood, California",
+      "release_date": "1995-11-19T00:00:00.000Z",
+      "type": 1
+     },
+     {
+      "certification": "",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "San Francisco, California",
+      "release_date": "1995-11-20T00:00:00.000Z",
+      "type": 1
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Disney100",
+      "release_date": "2023-07-21T00:00:00.000Z",
+      "type": 2
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "1995-11-22T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "3D re-release",
+      "release_date": "2009-10-02T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "30th Anniversary",
+      "release_date": "2025-09-12T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Disney+",
+      "release_date": "2019-11-12T00:00:00.000Z",
+      "type": 4
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "VHS",
+      "release_date": "1996-10-29T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "LaserDisc",
+      "release_date": "1996-10-30T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "DVD",
+      "release_date": "2000-10-17T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Blu-ray",
+      "release_date": "2010-03-23T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "G",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Blu-ray 3D",
+      "release_date": "2011-11-01T00:00:00.000Z",
+      "type": 5
+     },
+     {
+      "certification": "",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "ABC",
+      "release_date": "1997-09-28T00:00:00.000Z",
+      "type": 6
+     }
+    ]
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Why Disney Nearly Pulled the Plug on 'Toy Story'!",
+    "key": "aTCzKnXuixg",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Featurette",
+    "official": true,
+    "id": "6ad51e89391ab279ec797a63",
+    "published_at": "2026-09-18T16:00:25.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "The Story Before Toy Story | Pixar Archives",
+    "key": "fjbwYttZYiY",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Featurette",
+    "official": true,
+    "id": "69831c9546482181fa3014f3",
+    "published_at": "2026-02-03T18:00:59.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Brad Garrett on why TOY STORY still reigns as one of the greatest animated films of all time.",
+    "key": "_hIfuYVgBrY",
+    "site": "YouTube",
+    "size": 720,
+    "type": "Featurette",
+    "official": true,
+    "id": "6928807f85fe4502b3eaa07d",
+    "published_at": "2025-11-26T15:11:43.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Guess What Happens Next!",
+    "key": "qSfpijr1AdY",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Featurette",
+    "official": true,
+    "id": "6a43bc36f917968d4a056132",
+    "published_at": "2025-10-28T14:01:42.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Side by Side | \"Falling with Style\" Scene | Storyboards vs Film",
+    "key": "TZOCUtoygtc",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Behind the Scenes",
+    "official": true,
+    "id": "68e4202a0d591d58eef81cec",
+    "published_at": "2025-10-06T17:00:41.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Toy Storytime! | Pixar's Toy Story",
+    "key": "B0aHNHu0mN0",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Featurette",
+    "official": true,
+    "id": "6a43bfdd7007b78252056241",
+    "published_at": "2025-03-17T22:41:36.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Woody Meets Buzz!",
+    "key": "g2IF5NG2vU4",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Clip",
+    "official": true,
+    "id": "6a43bbd3f12fc9ea1a82941b",
+    "published_at": "2024-01-09T15:00:30.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Buzz and Woody Rocket",
+    "key": "wogrp3GNUM8",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Clip",
+    "official": true,
+    "id": "6a43bc835562ceb519829637",
+    "published_at": "2020-10-30T16:00:14.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+    "id": 301528,
+    "title": "Toy Story 4",
+    "original_title": "Toy Story 4",
+    "overview": "Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+    "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     10751,
+     35,
+     16,
+     12
+    ],
+    "popularity": 24.3273,
+    "release_date": "2019-06-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 11110
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "id": 1084244,
+    "title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10751,
+     35,
+     12
+    ],
+    "popularity": 114.3273,
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.271,
+    "vote_count": 2697
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "id": 10193,
+    "title": "Toy Story 3",
+    "original_title": "Toy Story 3",
+    "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10751,
+     35
+    ],
+    "popularity": 27.5928,
+    "release_date": "2010-06-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.819,
+    "vote_count": 16387
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/sN1sIv6YZTpdBr7D9mQBxGzRnLL.jpg",
+    "id": 137116,
+    "title": "Smurfs: The Lost Village",
+    "original_title": "Smurfs: The Lost Village",
+    "overview": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.",
+    "poster_path": "/swt9crREg1UcKgg3wGWfoFNlXOz.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     10751,
+     35,
+     12,
+     16
+    ],
+    "popularity": 11.2495,
+    "release_date": "2017-03-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 1601
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+    "id": 863,
+    "title": "Toy Story 2",
+    "original_title": "Toy Story 2",
+    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     35,
+     10751
+    ],
+    "popularity": 35.7188,
+    "release_date": "1999-10-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.624,
+    "vote_count": 15518
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/76BYV87P0RsgMGCd9DwqcYqyXVS.jpg",
+    "id": 25475,
+    "title": "Tinker Bell and the Lost Treasure",
+    "original_title": "Tinker Bell and the Lost Treasure",
+    "overview": "A blue harvest moon will rise, allowing the fairies to use a precious moonstone to restore the Pixie Dust Tree, the source of all their magic. But when Tinker Bell accidentally puts all of Pixie Hollow in jeopardy, she must venture out across the sea on a secret quest to set things right.",
+    "poster_path": "/hg1959yuBkHb4BKbIvETQSfxGCT.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     10751,
+     12,
+     14
+    ],
+    "popularity": 10.0145,
+    "release_date": "2009-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.842,
+    "vote_count": 1170
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+    "id": 177572,
+    "title": "Big Hero 6",
+    "original_title": "Big Hero 6",
+    "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+    "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     10751,
+     16,
+     28,
+     35
+    ],
+    "popularity": 25.2605,
+    "release_date": "2014-10-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.725,
+    "vote_count": 17034
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+    "id": 585,
+    "title": "Monsters, Inc.",
+    "original_title": "Monsters, Inc.",
+    "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+    "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     16,
+     35,
+     10751,
+     14
+    ],
+    "popularity": 32.8688,
+    "release_date": "2001-11-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.859,
+    "vote_count": 20430
+   }
+  ],
+  "total_pages": 33,
+  "total_results": 657
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
+    "genre_ids": [
+     12,
+     18,
+     10749,
+     28
+    ],
+    "id": 9476,
+    "title": "A Knight's Tale",
+    "original_language": "en",
+    "original_title": "A Knight's Tale",
+    "overview": "William Thatcher, a knight's peasant apprentice, gets a chance at glory when the knight dies suddenly mid-tournament. Posing as a knight himself, William won't stop until he's crowned tournament champion—assuming matters of the heart don't get in the way.",
+    "popularity": 12.8278,
+    "poster_path": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+    "release_date": "2001-05-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.896,
+    "vote_count": 3551
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+    "genre_ids": [
+     14,
+     16,
+     10751
+    ],
+    "id": 9479,
+    "title": "The Nightmare Before Christmas",
+    "original_language": "en",
+    "original_title": "The Nightmare Before Christmas",
+    "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+    "popularity": 110.5637,
+    "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "release_date": "1993-10-09",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.852,
+    "vote_count": 10795
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "genre_ids": [
+     12,
+     16,
+     35,
+     10751
+    ],
+    "id": 9487,
+    "title": "A Bug's Life",
+    "original_language": "en",
+    "original_title": "A Bug's Life",
+    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+    "popularity": 18.1029,
+    "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "release_date": "1998-11-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.984,
+    "vote_count": 9989
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/fsvgx9jc55cw9gWliLh8KKVMyA1.jpg",
+    "genre_ids": [
+     12,
+     35
+    ],
+    "id": 9510,
+    "title": "1½ Ritter - Auf der Suche nach der hinreißenden Herzelinde",
+    "original_language": "de",
+    "original_title": "1½ Ritter - Auf der Suche nach der hinreißenden Herzelinde",
+    "overview": "The story of Lanze who is in love with the princess. One day the princess is kidnapped by the Dark Knight and Lanze starts his journey to rescue her. But he is not alone because Erdal, a turk, joins him on his journey.",
+    "popularity": 1.9637,
+    "poster_path": "/nk3fmnVbnrtJ4tukuuwpIoxbcRk.jpg",
+    "release_date": "2008-12-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 4.366,
+    "vote_count": 131
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/vZUntwE0BLPxvjDVi54qQqxYyOI.jpg",
+    "genre_ids": [
+     35,
+     53
+    ],
+    "id": 9534,
+    "title": "The Ferpect Crime",
+    "original_language": "es",
+    "original_title": "Crimen ferpecto",
+    "overview": "A playboy has the tables turned on him when he finds himself being used as a plaything by an undesirable woman.",
+    "popularity": 1.8029,
+    "poster_path": "/1wOWudCNA550cLNk3JFoqhxLOGB.jpg",
+    "release_date": "2004-09-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.704,
+    "vote_count": 370
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+    "genre_ids": [
+     16,
+     18,
+     35,
+     878
+    ],
+    "id": 838240,
+    "title": "Robot Dreams",
+    "original_language": "es",
+    "original_title": "Robot Dreams",
+    "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+    "popularity": 14.3536,
+    "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+    "release_date": "2023-12-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.954,
+    "vote_count": 873
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+    "genre_ids": [
+     35,
+     10749
+    ],
+    "id": 9576,
+    "title": "Tootsie",
+    "original_language": "en",
+    "original_title": "Tootsie",
+    "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego—Dorothy Michaels—in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+    "popularity": 5.1167,
+    "poster_path": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+    "release_date": "1982-12-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1994
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/pFZHX2yBYH4Dc3UYSwQbABED6vs.jpg",
+    "genre_ids": [
+     35
+    ],
+    "id": 9617,
+    "title": "Little Sharks",
+    "original_language": "de",
+    "original_title": "Kleine Haie",
+    "overview": "When dishwasher Ingo, whose girl-friend has just left him, returns a borrowed bar stool to the Folkwang Acting School in Essen, he stumbles into the audition for next year's new students. He lets Johannes, the broke and unsuccessful applicant, stay with him. Ingo decides to go to Munich with Johannes, where he wants to try his luck once again. Hitchhiking, they get rides with very different drivers on the autobahn. They meet up with the smooth-talking Ali in the wayside dinner \"Raststätte Spessart\". Arriving in Munich, the trio tries to find cheap sleeping accommodation. They enter Ingo into the audition at Munich acting school. Moreover, Johannes falls in love with street artist Herta from Berlin. Written by emkarpf",
+    "popularity": 1.2252,
+    "poster_path": "/oHfoWOpIkaUrnLs5pfpVyQ6SMCv.jpg",
+    "release_date": "1992-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 33
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "Gimly",
+    "author_details": {
+     "name": "Gimly",
+     "username": "Ruuz",
+     "avatar_path": "/xUObnJSvHrFPsIpoDmb1jiQZLq7.jpg",
+     "rating": 8
+    },
+    "content": "This movie came out when I was three. Now I'm twenty seven and the goddamn thing still holds up.\r\n\r\n_Final rating:★★★★ - Very strong appeal. A personal favourite._",
+    "created_at": "2019-07-16T14:48:42Z",
+    "id": "5d2de3ca6a300b000fa47589",
+    "updated_at": "2021-06-23T15:58:24Z",
+    "url": "https://www.themoviedb.org/review/5d2de3ca6a300b000fa47589"
+   },
+   {
+    "author": "JPV852",
+    "author_details": {
+     "name": "",
+     "username": "JPV852",
+     "avatar_path": "/xNLOqXXVJf9m7WngUMLIMFsjKgh.jpg",
+     "rating": 9
+    },
+    "content": "Decided to revisit this after many years and still holds up so well. Great movie for both kids and adults with wonderful teachable moments. Just a groundbreaking animated movie all around. **4.5/5**",
+    "created_at": "2019-10-14T19:32:09Z",
+    "id": "5da4cd398a88b20013c654b7",
+    "updated_at": "2021-06-23T15:58:27Z",
+    "url": "https://www.themoviedb.org/review/5da4cd398a88b20013c654b7"
+   },
+   {
+    "author": "r96sk",
+    "author_details": {
+     "name": "",
+     "username": "r96sk",
+     "avatar_path": "/mwR7rFHoDcobAx1i61I3skzMW3U.jpg",
+     "rating": 10
+    },
+    "content": "A stunning feature film entrance from Pixar! <em>'Toy Story'</em> is a true delight, from the first second to the last.\r\n\r\nThe CGI animation is excellent. All the toys look brilliant, as does the world itself - I love the feel of it. The music is very good, Randy Newman does a nice job - \"You've Got a Friend in Me\" is a cracker.\r\n\r\nTom Hanks leads a strong cast. Hanks plays Woody, to fantastic effect. He is the best part of this film. Tim Allen is great, too, as Buzz Lightyear. Don Rickles (Mr. Potato Head), Wallace Shawn (Rex) and John Ratzenberger (Hamm) also bring fun.\r\n\r\nEverything else is",
+    "created_at": "2020-06-28T12:08:58Z",
+    "id": "5ef8885ad6d64d0037c52832",
+    "updated_at": "2021-06-23T15:58:39Z",
+    "url": "https://www.themoviedb.org/review/5ef8885ad6d64d0037c52832"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+ }
+}

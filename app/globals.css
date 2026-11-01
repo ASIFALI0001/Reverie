@@ -1,0 +1,694 @@
+@import "tailwindcss";
+@import "lenis/dist/lenis.css";
+
+/* Theme switching is driven by data-theme on <html> (set before paint by an inline script). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+@custom-variant light (&:where([data-theme="light"], [data-theme="light"] *));
+
+@theme {
+  /* ── Type families (variables are set by next/font on <html>) ── */
+  --font-display: var(--font-instrument-serif), "Iowan Old Style", "Times New Roman", serif;
+  --font-sans: var(--font-instrument-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-chivo-mono), ui-monospace, "SFMono-Regular", monospace;
+
+  /* ── Screening room (dark, default) ── */
+  --color-bg: #0c0b0a;
+  --color-surface: #16140f;
+  --color-raised: #1e1b16;
+  --color-text: #ede6da;
+  --color-muted: #8a8378;
+  --color-faint: #4f4a43;
+  --color-hairline: rgb(237 230 218 / 0.08);
+  --color-hairline-strong: rgb(237 230 218 / 0.17);
+  --color-accent: #e8a23a;
+  --color-accent-ink: #0c0b0a;
+  --color-danger: #e0735c;
+  /* Daylight end of the match-ring colour-temperature ramp (6500K steel → 3200K tungsten). */
+  --color-daylight: oklch(0.72 0.045 238);
+  /* Two-person charts (you vs a friend): validated for lightness band, chroma and CVD on this surface. */
+  --color-series-you: #c97f14;
+  --color-series-them: #3a8fc0;
+  /*
+   * Genre stacks (taste timeline): five hues in this order (amber, blue, rose, violet, teal),
+   * then a neutral for "Other". Validated as adjacent pairs on --color-bg: worst CVD ΔE 11.7,
+   * normal vision 16.1, all ≥ 3:1. Rose and teal must never sit side by side (deutan ΔE 1.6).
+   */
+  --color-genre-1: #c97f14;
+  --color-genre-2: #3a8fc0;
+  --color-genre-3: #d55181;
+  --color-genre-4: #9085e9;
+  --color-genre-5: #199e70;
+  --color-genre-other: #6f695f;
+
+  /* ── Fluid type scale (1.25 on mobile → ~1.333 on desktop) ── */
+  --text-caption: 0.75rem;
+  --text-caption--line-height: 1.35;
+  --text-meta: 0.8125rem;
+  --text-meta--line-height: 1.4;
+  --text-body: clamp(0.9375rem, 0.9rem + 0.18vw, 1.0625rem);
+  --text-body--line-height: 1.6;
+  --text-lead: clamp(1.375rem, 1.15rem + 0.9vw, 2rem);
+  --text-lead--line-height: 1.22;
+  --text-h4: clamp(1.25rem, 1.12rem + 0.55vw, 1.625rem);
+  --text-h4--line-height: 1.15;
+  --text-h3: clamp(1.625rem, 1.3rem + 1.35vw, 2.625rem);
+  --text-h3--line-height: 1.05;
+  --text-h3--letter-spacing: -0.01em;
+  --text-h2: clamp(2.25rem, 1.55rem + 2.9vw, 4.25rem);
+  --text-h2--line-height: 0.98;
+  --text-h2--letter-spacing: -0.02em;
+  --text-h1: clamp(3rem, 1.7rem + 5.6vw, 7.75rem);
+  --text-h1--line-height: 0.92;
+  --text-h1--letter-spacing: -0.03em;
+  --text-display: clamp(3.5rem, 1.2rem + 10vw, 10.5rem);
+  --text-display--line-height: 0.86;
+  --text-display--letter-spacing: -0.035em;
+  --text-numeral: clamp(5.5rem, 3.4rem + 8.2vw, 10rem);
+  --text-numeral--line-height: 0.8;
+  --text-numeral--letter-spacing: -0.06em;
+
+  /* ── Shape: posters are near-sharp, controls are pills, floating panels softly rounded ── */
+  --radius-poster: 2px;
+  --radius-panel: 6px;
+
+  /* ── Motion tokens (mirrored in lib/motion.ts) ── */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --animate-shimmer: shimmer 1.6s var(--ease-in-out) infinite;
+
+  @keyframes shimmer {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(100%);
+    }
+  }
+}
+
+:root {
+  --dur-micro: 150ms;
+  --dur-small: 300ms;
+  --dur-medium: 600ms;
+  --dur-large: 1000ms;
+  --stagger: 50ms;
+
+  --page-x: clamp(1.25rem, 0.6rem + 3.2vw, 3.5rem);
+  --gutter: clamp(1rem, 0.6rem + 1.4vw, 1.75rem);
+  --section-y: clamp(4.5rem, 3rem + 6vw, 9rem);
+  --nav-h: 4.25rem;
+  --dock-h: 4rem;
+
+  /* Per-page accent (detail pages override with the poster's dominant colour). */
+  --tint: var(--color-accent);
+}
+
+/* ── Matinée (light) ── */
+[data-theme="light"] {
+  --color-bg: #f3eee6;
+  --color-surface: #ebe4d9;
+  --color-raised: #e2dacd;
+  --color-text: #141210;
+  --color-muted: #6b6358;
+  --color-faint: #b5ab9c;
+  --color-hairline: rgb(20 18 16 / 0.1);
+  --color-hairline-strong: rgb(20 18 16 / 0.2);
+  --color-accent: #925c0e;
+  --color-accent-ink: #f3eee6;
+  --color-danger: #a63d2a;
+  --color-daylight: oklch(0.52 0.06 240);
+  --color-series-you: #925c0e;
+  --color-series-them: #1870a1;
+  /* Worst adjacent CVD ΔE 10.3, normal 20.6. "Other" is 2.4:1 by design (recessive), so genre charts
+     always carry a visible legend and a table. */
+  --color-genre-1: #925c0e;
+  --color-genre-2: #1870a1;
+  --color-genre-3: #b03a6a;
+  --color-genre-4: #6250d6;
+  --color-genre-5: #0f7a55;
+  --color-genre-other: #a39a8c;
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    background-color: var(--color-bg);
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scrollbar-gutter: stable;
+  }
+
+  html[data-theme="light"] {
+    color-scheme: light;
+  }
+
+  body {
+    min-height: 100dvh;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    font-size: var(--text-body);
+    line-height: var(--text-body--line-height);
+    font-kerning: normal;
+    font-optical-sizing: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background-color: color-mix(in oklch, var(--color-accent) 38%, transparent);
+    color: var(--color-text);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--tint);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  img,
+  video,
+  svg {
+    display: block;
+  }
+
+  a,
+  button {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer components {
+  /* Page frame: generous side margins, wide editorial measure. */
+  .page {
+    width: 100%;
+    max-width: 1680px;
+    margin-inline: auto;
+    padding-inline: var(--page-x);
+  }
+
+  .grid-editorial {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: var(--gutter);
+  }
+
+  /*
+   * Title hero: one instance of each element, rearranged by named areas.
+   * Phone: poster beside the ring, then title, ratings, actions.
+   * Desktop: poster + title bottom-left, the ring holding the right edge.
+   */
+  .title-hero-grid {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas:
+      "poster ring"
+      "title title"
+      "ratings ratings"
+      "actions actions";
+    column-gap: var(--gutter);
+    row-gap: 1.75rem;
+    align-items: end;
+  }
+  @media (min-width: 768px) {
+    .title-hero-grid {
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      grid-template-areas:
+        "poster title ring"
+        "ratings ratings ring"
+        "actions actions ring";
+      row-gap: 2rem;
+    }
+  }
+
+  /* Hover underline that draws from the left. */
+  .link-draw {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size var(--dur-small) var(--ease-out), color var(--dur-micro) linear;
+  }
+  .link-draw:hover,
+  .link-draw[aria-current="page"] {
+    background-size: 100% 1px;
+  }
+
+  /* Film grain: one tiled SVG noise layer, jittered in steps so it reads like stock, not static.
+     The tile repeats every 128px, so the layer only needs one tile of overhang for the jitter;
+     it fades in after the first frames, which are cheaper to rasterize without it. */
+  .grain {
+    position: fixed;
+    inset: -128px;
+    z-index: 9000;
+    pointer-events: none;
+    opacity: 0.055;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    animation:
+      grain 0.9s steps(7) infinite,
+      grain-in 0.8s var(--ease-out) 1s both;
+    will-change: transform;
+  }
+  [data-theme="light"] .grain {
+    opacity: 0.085;
+    mix-blend-mode: multiply;
+  }
+
+  /* Projector beam: a soft band of light sweeping across a working control. */
+  .beam {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    overflow: hidden;
+  }
+  .beam::before {
+    content: "";
+    position: absolute;
+    inset: -20% auto -20% 0;
+    width: 45%;
+    background: linear-gradient(
+      100deg,
+      transparent,
+      color-mix(in oklab, var(--color-accent) 38%, transparent) 45%,
+      color-mix(in oklab, white 30%, transparent) 50%,
+      color-mix(in oklab, var(--color-accent) 38%, transparent) 55%,
+      transparent
+    );
+    animation: beam-sweep 1.25s var(--ease-in-out) infinite;
+  }
+  @keyframes beam-sweep {
+    from {
+      transform: translateX(-110%);
+    }
+    to {
+      transform: translateX(330%);
+    }
+  }
+
+  /* Drifting poster columns (auth pages). Pure CSS transforms; paused for reduced motion. */
+  .drift {
+    animation: drift-y var(--drift-dur, 140s) linear infinite;
+  }
+  .drift[data-dir="down"] {
+    animation-direction: reverse;
+  }
+  .drift-x {
+    animation: drift-x var(--drift-dur, 90s) linear infinite;
+  }
+  @keyframes drift-y {
+    to {
+      transform: translate3d(0, -50%, 0);
+    }
+  }
+  @keyframes drift-x {
+    to {
+      transform: translate3d(-50%, 0, 0);
+    }
+  }
+
+  /* Radix popovers/menus: a short rise from their anchor. */
+  .menu-anim[data-state="open"] {
+    animation: menu-in 220ms var(--ease-out);
+  }
+  .menu-anim[data-state="closed"] {
+    animation: menu-out 120ms ease-in forwards;
+  }
+  @keyframes menu-in {
+    from {
+      opacity: 0;
+      transform: translateY(-6px) scale(0.98);
+    }
+  }
+  @keyframes menu-out {
+    to {
+      opacity: 0;
+      transform: translateY(-4px);
+    }
+  }
+
+  /* Skeleton: shape-matched block with a soft travelling sheen (transform only). */
+  .skeleton {
+    position: relative;
+    overflow: hidden;
+    background-color: var(--color-surface);
+  }
+  .skeleton::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      100deg,
+      transparent 20%,
+      color-mix(in oklch, var(--color-text) 5%, transparent) 50%,
+      transparent 80%
+    );
+    animation: var(--animate-shimmer);
+  }
+}
+
+/* Reveal targets wait for their animation only when JS is present to run it. Transparent,
+   not hidden: a waiting heading stays in the accessibility tree (and the outline). */
+.js [data-split]:not([data-split="ready"]),
+.js [data-countup]:not([data-countup="ready"]) {
+  opacity: 0;
+}
+
+/* SplitText line masks: a touch of bottom room so descenders aren't clipped. */
+.split-mask {
+  padding-bottom: 0.08em;
+  margin-bottom: -0.08em;
+}
+
+@utility caption {
+  font-size: 0.8125rem;
+  line-height: var(--text-caption--line-height);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.07em;
+  font-stretch: 92%;
+  color: var(--color-muted);
+}
+
+@utility numeral {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+@utility condensed {
+  font-stretch: 82%;
+}
+
+@utility pb-dock {
+  padding-bottom: calc(var(--dock-h) + env(safe-area-inset-bottom, 0px));
+}
+
+/* Below-the-fold blocks: the browser skips their style, layout and paint (and their lazy
+   images) until they near the viewport. The intrinsic size is a first guess; after one
+   render the real size is remembered. */
+@utility defer-render {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 720px;
+}
+
+@keyframes grain {
+  0% { transform: translate(0, 0); }
+  14% { transform: translate(-37px, -83px); }
+  28% { transform: translate(-101px, 29px); }
+  42% { transform: translate(53px, -113px); }
+  57% { transform: translate(-19px, 97px); }
+  71% { transform: translate(-89px, -23px); }
+  85% { transform: translate(71px, 61px); }
+  100% { transform: translate(23px, -47px); }
+}
+@keyframes grain-in {
+  from {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+/* ── View transitions (React <ViewTransition> + Link transitionTypes) ── */
+::view-transition {
+  pointer-events: none;
+}
+
+::view-transition-group(.morph) {
+  animation-duration: 520ms;
+  animation-timing-function: var(--ease-out);
+}
+::view-transition-image-pair(.morph) {
+  animation-name: via-soften;
+}
+@keyframes via-soften {
+  35% {
+    filter: blur(2px);
+  }
+}
+
+/* The header stays put while pages change beneath it. */
+::view-transition-group(site-header) {
+  animation: none;
+  z-index: 100;
+}
+::view-transition-old(site-header) {
+  display: none;
+}
+::view-transition-new(site-header) {
+  animation: none;
+}
+
+/* Theme switch: matinée/screening room irises open from the toggle. */
+:active-view-transition-type(theme)::view-transition-old(root),
+:active-view-transition-type(theme)::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+/* The title hero's letterbox opens on first paint; `forwards` leaves the bars closed to nothing. */
+.letterbox {
+  animation: letterbox-open 1.4s var(--ease-in-out) 0.1s forwards;
+}
+@keyframes letterbox-open {
+  to {
+    transform: scaleY(0);
+  }
+}
+
+/* First-screen headings rise out of their mask without waiting for any script. */
+.rise-in {
+  animation: rise-in 1.1s var(--ease-out) 0.15s both;
+}
+@keyframes rise-in {
+  from {
+    transform: translateY(108%);
+  }
+}
+
+/* Admin charts: lines draw themselves, washes and labels fade up, bars grow from the baseline. */
+.chart-draw {
+  stroke-dasharray: 1;
+  animation: chart-draw 1.4s var(--ease-out) 0.15s both;
+}
+@keyframes chart-draw {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.chart-fade {
+  animation: chart-fade 0.6s var(--ease-out) 1s both;
+}
+@keyframes chart-fade {
+  from {
+    opacity: 0;
+  }
+}
+.bar-grow {
+  transform-origin: left center;
+  animation: bar-grow 0.9s var(--ease-out) both;
+}
+@keyframes bar-grow {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+/* A light going down: the blocked page's logo dims once, slowly, and stays dim. */
+.dim-slow {
+  animation: dim-slow 7s var(--ease-in-out) 0.6s both;
+}
+@keyframes dim-slow {
+  to {
+    opacity: 0.32;
+  }
+}
+
+/* A projector on its last legs: the 404 and error moments. */
+.flicker {
+  animation: projector-flicker 4.6s steps(1, end) infinite;
+}
+@keyframes projector-flicker {
+  0%,
+  17%,
+  21%,
+  52%,
+  58%,
+  100% {
+    opacity: 1;
+  }
+  19% {
+    opacity: 0.55;
+  }
+  54% {
+    opacity: 0.82;
+  }
+  56% {
+    opacity: 0.4;
+  }
+}
+
+/* Page transitions on typed navigations: the old page lifts away, the new one rises behind a soft wipe (≤ 650ms). */
+::view-transition-old(.page-exit) {
+  animation: 240ms var(--ease-in-out) both page-out;
+}
+::view-transition-new(.page-enter) {
+  animation: 520ms var(--ease-out) 110ms both page-in;
+}
+@keyframes page-out {
+  to {
+    opacity: 0;
+    translate: 0 -18px;
+    filter: blur(3px);
+  }
+}
+@keyframes page-in {
+  from {
+    opacity: 0;
+    translate: 0 28px;
+    clip-path: inset(10% 0 0 0);
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+/* About: the opening title writes itself letter by letter (split on the server, so it needs no
+   JavaScript and shows at first paint), then the tagline and the scroll hint. Fill "backwards"
+   only: once done, the scroll timeline is free to move these. */
+@keyframes about-letter {
+  from {
+    opacity: 0;
+    transform: translateY(0.16em);
+    filter: blur(10px);
+  }
+}
+.about-letter {
+  animation: about-letter 1.1s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+  animation-delay: calc(var(--i) * 85ms + 150ms);
+}
+/* Faint, not invisible, while it waits: the tagline is the page's largest text, so it is there from
+   the first frame (and counts as painted then) and comes into focus as the title finishes. */
+@keyframes about-fade {
+  from {
+    opacity: 0.18;
+    transform: translateY(0.3em);
+  }
+}
+.about-after {
+  animation: about-fade 1.3s cubic-bezier(0.16, 1, 0.3, 1) 0.9s backwards;
+}
+@keyframes about-scroll-line {
+  0% {
+    transform: scaleY(0);
+    transform-origin: top;
+  }
+  45% {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  55% {
+    transform: scaleY(1);
+    transform-origin: bottom;
+  }
+  100% {
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+.about-scroll-line {
+  animation: about-scroll-line 2.4s cubic-bezier(0.65, 0, 0.35, 1) 1.6s infinite;
+}
+
+/* About: a pinned chapter is one screen plus its scroll length (--pin), reserved in the CSS from the
+   start, with its stage stuck to the viewport while the section scrolls past. Nothing is inserted
+   later (lazy scenes would otherwise shift everything below an anchor jump), and it works without
+   JavaScript. Wide screens with motion only; elsewhere chapters simply flow. */
+@media (min-width: 1024px) and (prefers-reduced-motion: no-preference) {
+  .about-pin {
+    height: calc(100svh + var(--pin, 150svh));
+  }
+  .about-pin > [data-stage] {
+    position: sticky;
+    top: 0;
+    height: 100svh;
+  }
+}
+
+/* Wrapped: the current slide's progress segment fills over --story-ms, then the story moves on. */
+@keyframes story-fill {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+.story-fill {
+  transform-origin: left;
+  animation: story-fill var(--story-ms, 6500ms) linear forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .grain {
+    animation: none;
+  }
+  .story-fill {
+    animation: none;
+  }
+  .about-letter,
+  .about-after,
+  .about-scroll-line {
+    animation: none;
+  }
+  .skeleton::after,
+  .beam::before,
+  .drift,
+  .drift-x,
+  .flicker,
+  .rise-in {
+    animation: none;
+  }
+  .letterbox {
+    display: none;
+  }
+  .dim-slow {
+    animation: none;
+    opacity: 0.32;
+  }
+  .chart-draw,
+  .chart-fade,
+  .bar-grow {
+    animation: none;
+  }
+  ::view-transition-old(*),
+  ::view-transition-new(*),
+  ::view-transition-group(*) {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+  }
+}
+
+/* Title pages take their accent from the poster (contrast-adjusted per theme). */
+.title-page {
+  --tint: var(--tint-dark, var(--color-accent));
+}
+[data-theme="light"] .title-page {
+  --tint: var(--tint-light, var(--color-accent));
+}

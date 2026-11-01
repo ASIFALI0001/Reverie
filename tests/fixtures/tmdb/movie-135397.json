@@ -1,0 +1,1070 @@
+{
+ "adult": false,
+ "backdrop_path": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+ "belongs_to_collection": {
+  "id": 328,
+  "name": "Jurassic Park Collection",
+  "poster_path": "/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg",
+  "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+ },
+ "budget": 150000000,
+ "genres": [
+  {
+   "id": 12,
+   "name": "Adventure"
+  },
+  {
+   "id": 878,
+   "name": "Science Fiction"
+  },
+  {
+   "id": 53,
+   "name": "Thriller"
+  }
+ ],
+ "homepage": "https://www.jurassicworld.com/",
+ "id": 135397,
+ "imdb_id": "tt0369610",
+ "origin_country": [
+  "US"
+ ],
+ "original_language": "en",
+ "original_title": "Jurassic World",
+ "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+ "popularity": 22.4738,
+ "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+ "production_companies": [
+  {
+   "id": 56,
+   "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+   "name": "Amblin Entertainment",
+   "origin_country": "US"
+  },
+  {
+   "id": 33,
+   "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+   "name": "Universal Pictures",
+   "origin_country": "US"
+  },
+  {
+   "id": 923,
+   "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+   "name": "Legendary Pictures",
+   "origin_country": "US"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "US",
+   "name": "United States of America"
+  }
+ ],
+ "release_date": "2015-06-06",
+ "revenue": 1671537444,
+ "runtime": 124,
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "English",
+   "iso_639_1": "en",
+   "name": "English"
+  }
+ ],
+ "status": "Released",
+ "tagline": "The park is open.",
+ "title": "Jurassic World",
+ "video": false,
+ "vote_average": 6.703,
+ "vote_count": 22051,
+ "credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 73457,
+    "known_for_department": "Acting",
+    "name": "Chris Pratt",
+    "original_name": "Chris Pratt",
+    "popularity": 8.9484,
+    "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+    "cast_id": 10,
+    "character": "Owen",
+    "credit_id": "5311015a9251410fe600151d",
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 18997,
+    "known_for_department": "Acting",
+    "name": "Bryce Dallas Howard",
+    "original_name": "Bryce Dallas Howard",
+    "popularity": 4.7035,
+    "profile_path": "/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg",
+    "cast_id": 11,
+    "character": "Claire",
+    "credit_id": "53110162925141104200157d",
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 76793,
+    "known_for_department": "Acting",
+    "name": "Irrfan Khan",
+    "original_name": "Irrfan Khan",
+    "popularity": 2.8858,
+    "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg",
+    "cast_id": 15,
+    "character": "Masrani",
+    "credit_id": "531101a3925141104d00157b",
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 7132,
+    "known_for_department": "Acting",
+    "name": "Vincent D'Onofrio",
+    "original_name": "Vincent D'Onofrio",
+    "popularity": 3.2387,
+    "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg",
+    "cast_id": 9,
+    "character": "Hoskins",
+    "credit_id": "5311013992514110350014e9",
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 17181,
+    "known_for_department": "Acting",
+    "name": "Ty Simpkins",
+    "original_name": "Ty Simpkins",
+    "popularity": 3.546,
+    "profile_path": "/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg",
+    "cast_id": 14,
+    "character": "Gray",
+    "credit_id": "5311019592514110130014ee",
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1108907,
+    "known_for_department": "Acting",
+    "name": "Nick Robinson",
+    "original_name": "Nick Robinson",
+    "popularity": 5.1562,
+    "profile_path": "/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg",
+    "cast_id": 13,
+    "character": "Zach",
+    "credit_id": "5311018d925141102a001455",
+    "order": 5
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 543505,
+    "known_for_department": "Acting",
+    "name": "Jake Johnson",
+    "original_name": "Jake Johnson",
+    "popularity": 4.1389,
+    "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg",
+    "cast_id": 12,
+    "character": "Lowery",
+    "credit_id": "5311017492514110130014ec",
+    "order": 6
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 78423,
+    "known_for_department": "Acting",
+    "name": "Omar Sy",
+    "original_name": "Omar Sy",
+    "popularity": 4.7774,
+    "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+    "cast_id": 16,
+    "character": "Barry",
+    "credit_id": "532c5dc3c3a3686f010000b3",
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 14592,
+    "known_for_department": "Acting",
+    "name": "BD Wong",
+    "original_name": "BD Wong",
+    "popularity": 2.8055,
+    "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg",
+    "cast_id": 17,
+    "character": "Dr. Henry Wu",
+    "credit_id": "5333d111c3a3682abb0017bc",
+    "order": 8
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 20750,
+    "known_for_department": "Acting",
+    "name": "Judy Greer",
+    "original_name": "Judy Greer",
+    "popularity": 4.2905,
+    "profile_path": "/pTLjIjh83R424RGxIfq4U0yx947.jpg",
+    "cast_id": 18,
+    "character": "Karen",
+    "credit_id": "533ed723c3a36870880000fe",
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 591834,
+    "known_for_department": "Acting",
+    "name": "Lauren Lapkus",
+    "original_name": "Lauren Lapkus",
+    "popularity": 2.8151,
+    "profile_path": "/zevTufkY38eRvWPslh5c1azdhQN.jpg",
+    "cast_id": 20,
+    "character": "Vivian",
+    "credit_id": "533ed734c3a368705f0000ee",
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 116278,
+    "known_for_department": "Acting",
+    "name": "Brian Tee",
+    "original_name": "Brian Tee",
+    "popularity": 3.8876,
+    "profile_path": "/ieqbktfBwcHkeikMfNDW94Yffzp.jpg",
+    "cast_id": 22,
+    "character": "Hamada",
+    "credit_id": "54774839c3a3687a20000307",
+    "order": 11
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 150587,
+    "known_for_department": "Acting",
+    "name": "Katie McGrath",
+    "original_name": "Katie McGrath",
+    "popularity": 2.7898,
+    "profile_path": "/eDTYdYE6gV2oUhvRFGHaK5PpnXr.jpg",
+    "cast_id": 23,
+    "character": "Zara",
+    "credit_id": "54c7e833925141561e00059c",
+    "order": 12
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 170635,
+    "known_for_department": "Acting",
+    "name": "Andy Buckley",
+    "original_name": "Andy Buckley",
+    "popularity": 1.3853,
+    "profile_path": "/urkCCe0bizypCkQ9bZhFhDzvskE.jpg",
+    "cast_id": 21,
+    "character": "Scott",
+    "credit_id": "536a5951c3a3681238007dce",
+    "order": 13
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 59297,
+    "known_for_department": "Acting",
+    "name": "Eric Edelstein",
+    "original_name": "Eric Edelstein",
+    "popularity": 2.2248,
+    "profile_path": "/d1ng4kzNijFQ8DSQWeU5P6XDgmA.jpg",
+    "cast_id": 829,
+    "character": "Paddock Supervisor",
+    "credit_id": "5800a13cc3a3686b0700394c",
+    "order": 14
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 67802,
+    "known_for_department": "Writing",
+    "name": "Rick Jaffa",
+    "original_name": "Rick Jaffa",
+    "popularity": 1.2642,
+    "profile_path": "/hjxAQXUppDd2StwzJ4ACYGrP5Vg.jpg",
+    "credit_id": "52fe4bf7c3a368484e1a0671",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 930707,
+    "known_for_department": "Directing",
+    "name": "Colin Trevorrow",
+    "original_name": "Colin Trevorrow",
+    "popularity": 1.6555,
+    "profile_path": "/i0HBClPMPKn3aq8QeQqyThS67EK.jpg",
+    "credit_id": "52fe4bf7c3a368484e1a0695",
+    "department": "Directing",
+    "job": "Director"
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 67803,
+    "known_for_department": "Writing",
+    "name": "Amanda Silver",
+    "original_name": "Amanda Silver",
+    "popularity": 1.3951,
+    "profile_path": "/j26E4ifZClUceVocOmDG9sWm7uP.jpg",
+    "credit_id": "52fe4bf7c3a368484e1a067d",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1020013,
+    "known_for_department": "Writing",
+    "name": "Derek Connolly",
+    "original_name": "Derek Connolly",
+    "popularity": 1.1726,
+    "profile_path": "/cMPp6V8Wh54kXAw5HrHlruxRWZu.jpg",
+    "credit_id": "5549182592514104cd000255",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 892,
+    "known_for_department": "Camera",
+    "name": "John Schwartzman",
+    "original_name": "John Schwartzman",
+    "popularity": 0.7718,
+    "profile_path": "/zzlqMvfN8WnAahPsBBIx0QW54jM.jpg",
+    "credit_id": "554918a492514104ba0002bc",
+    "department": "Camera",
+    "job": "Director of Photography"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 930707,
+    "known_for_department": "Directing",
+    "name": "Colin Trevorrow",
+    "original_name": "Colin Trevorrow",
+    "popularity": 1.6555,
+    "profile_path": "/i0HBClPMPKn3aq8QeQqyThS67EK.jpg",
+    "credit_id": "55f0c11d9251416711000045",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 15347,
+    "known_for_department": "Sound",
+    "name": "Michael Giacchino",
+    "original_name": "Michael Giacchino",
+    "popularity": 1.6544,
+    "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+    "credit_id": "55f0c173c3a368230300004d",
+    "department": "Sound",
+    "job": "Original Music Composer"
+   }
+  ]
+ },
+ "keywords": {
+  "keywords": [
+   {
+    "id": 2041,
+    "name": "island"
+   },
+   {
+    "id": 5251,
+    "name": "primal fear"
+   },
+   {
+    "id": 10685,
+    "name": "escape"
+   },
+   {
+    "id": 1766,
+    "name": "velociraptor"
+   },
+   {
+    "id": 1718,
+    "name": "dna"
+   },
+   {
+    "id": 1720,
+    "name": "tyrannosaurus rex"
+   },
+   {
+    "id": 5160,
+    "name": "animal attack"
+   },
+   {
+    "id": 9663,
+    "name": "sequel"
+   },
+   {
+    "id": 12616,
+    "name": "dinosaur"
+   },
+   {
+    "id": 13031,
+    "name": "creature"
+   },
+   {
+    "id": 14760,
+    "name": "scientist"
+   },
+   {
+    "id": 14798,
+    "name": "park"
+   },
+   {
+    "id": 155582,
+    "name": "amusement park"
+   },
+   {
+    "id": 158340,
+    "name": "theme park"
+   },
+   {
+    "id": 163561,
+    "name": "genetic engineering"
+   },
+   {
+    "id": 164246,
+    "name": "nostalgic"
+   },
+   {
+    "id": 196564,
+    "name": "costa rica"
+   },
+   {
+    "id": 197013,
+    "name": "raptor"
+   },
+   {
+    "id": 223059,
+    "name": "animal horror"
+   },
+   {
+    "id": 259376,
+    "name": "playful"
+   },
+   {
+    "id": 315709,
+    "name": "jungle adventure"
+   },
+   {
+    "id": 319467,
+    "name": "mosasaurus"
+   },
+   {
+    "id": 325811,
+    "name": "excited"
+   },
+   {
+    "id": 325812,
+    "name": "exhilarated"
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt0369610",
+  "wikidata_id": "Q3512046",
+  "facebook_id": "JurassicWorld",
+  "instagram_id": "jurassicworld",
+  "twitter_id": "JurassicWorld"
+ },
+ "release_dates": {
+  "results": [
+   {
+    "iso_3166_1": "GB",
+    "release_dates": [
+     {
+      "certification": "12A",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2015-06-12T00:00:00.000Z",
+      "type": 3
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "IN",
+    "release_dates": [
+     {
+      "certification": "UA",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2015-06-11T00:00:00.000Z",
+      "type": 3
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "US",
+    "release_dates": [
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "en",
+      "note": "Hollywood, California (Premiere)",
+      "release_date": "2015-06-09T00:00:00.000Z",
+      "type": 1
+     },
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2015-06-12T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Starz",
+      "release_date": "2026-11-01T00:00:00.000Z",
+      "type": 4
+     },
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Starz Encore",
+      "release_date": "2026-11-01T00:00:00.000Z",
+      "type": 6
+     }
+    ]
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Welcome To Jurassic World - Extended Preview",
+    "key": "CwO7yKwr9q4",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Clip",
+    "official": true,
+    "id": "69f5f53ff44c934288a1cace",
+    "published_at": "2026-04-04T17:00:24.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "The Indominus Rex Escapes",
+    "key": "betgp-CVg2U",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "6915b2839cdeac55348763e8",
+    "published_at": "2025-11-12T14:01:04.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Indominus Vs Security Team",
+    "key": "GlF4Lp4jb2s",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "67014aaae84eeb35a0f85572",
+    "published_at": "2024-10-04T13:00:16.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Tracking The Indominus Rex in 4K HDR",
+    "key": "LB-pIDM57Bs",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "661c422a699fb70163d4559f",
+    "published_at": "2024-03-25T13:00:27.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Chris Pratt Reveals Behind The Scenes Secrets",
+    "key": "2pIbXEmj0wA",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Behind the Scenes",
+    "official": true,
+    "id": "6547afa1924ce6013bb6d083",
+    "published_at": "2023-11-02T17:00:01.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Chris & Colin Take on The World of Jurassic Bonus Feature",
+    "key": "vgtBnaqIUpg",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Featurette",
+    "official": true,
+    "id": "6315bbdd0c1255007ed46447",
+    "published_at": "2022-09-01T16:00:39.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "How the Props Were Put Together Bonus Feature",
+    "key": "v3btDZ7Ok_k",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Behind the Scenes",
+    "official": true,
+    "id": "62cacf7505f9cf00678680ed",
+    "published_at": "2022-07-09T16:00:24.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "The Park's Newest Attraction Extended Preview in 4K Ultra HD",
+    "key": "PqsFaa4zSWQ",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "62f1f669db72c0007a05f547",
+    "published_at": "2022-05-18T16:00:11.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+    "id": 329,
+    "title": "Jurassic Park",
+    "original_title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "poster_path": "/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     878
+    ],
+    "popularity": 16.5576,
+    "release_date": "1993-06-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.977,
+    "vote_count": 18516
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+    "id": 351286,
+    "title": "Jurassic World: Fallen Kingdom",
+    "original_title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     878,
+     53
+    ],
+    "popularity": 21.6658,
+    "release_date": "2018-06-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.52,
+    "vote_count": 13108
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+    "id": 331,
+    "title": "Jurassic Park III",
+    "original_title": "Jurassic Park III",
+    "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+    "poster_path": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     53,
+     878,
+     28
+    ],
+    "popularity": 1.3506,
+    "release_date": "2001-07-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.178,
+    "vote_count": 8135
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
+    "id": 507086,
+    "title": "Jurassic World Dominion",
+    "original_title": "Jurassic World Dominion",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     878,
+     53
+    ],
+    "popularity": 25.2244,
+    "release_date": "2022-06-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.581,
+    "vote_count": 7360
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+    "id": 1234821,
+    "title": "Jurassic World Rebirth",
+    "original_title": "Jurassic World Rebirth",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     878,
+     12,
+     28
+    ],
+    "popularity": 35.8598,
+    "release_date": "2025-06-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.246,
+    "vote_count": 3874
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg",
+    "id": 823464,
+    "title": "Godzilla x Kong: The New Empire",
+    "original_title": "Godzilla x Kong: The New Empire",
+    "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     28,
+     12,
+     878
+    ],
+    "popularity": 20.6598,
+    "release_date": "2024-03-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.032,
+    "vote_count": 4923
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/hBwfWpZMnto1w2YT9NgRj6WJi6I.jpg",
+    "id": 1101383,
+    "title": "The End of Oak Street",
+    "original_title": "The End of Oak Street",
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "poster_path": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     878,
+     9648,
+     53
+    ],
+    "popularity": 87.5565,
+    "release_date": "2026-08-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.087,
+    "vote_count": 2187
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/xSyWuzl85F83hnZeuwznlKNXGjQ.jpg",
+    "id": 593026,
+    "title": "The Adventures of Jurassic Pet",
+    "original_title": "The Adventures of Jurassic Pet",
+    "overview": "An adventurous teenager summons the courage to help a friendly dinosaur to escape from the clutches of a mad scientist that wants to use him for experimentations.",
+    "poster_path": "/v8vHnMjLPaclzxDWTnGzcwC19tT.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     10751,
+     12,
+     878
+    ],
+    "popularity": 2.3023,
+    "release_date": "2019-06-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 76
+   }
+  ],
+  "total_pages": 16,
+  "total_results": 319
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+    "genre_ids": [
+     16,
+     878,
+     9648,
+     18
+    ],
+    "id": 36865,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "original_language": "ja",
+    "original_title": "涼宮ハルヒの消失",
+    "overview": "A week before Christmas, Kyon wakes up in a world where the SOS Brigade doesn't exist. Mikuru and Yuki don't recognize him, and Haruhi and Itsuki seem to have vanished.",
+    "popularity": 4.0399,
+    "poster_path": "/x52WmUnfpB2AB0YUNGWJZaRzcBx.jpg",
+    "release_date": "2010-02-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.888,
+    "vote_count": 299
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/zaydFrMVU5mn3ajBc3VwbNasYAG.jpg",
+    "genre_ids": [
+     80,
+     35,
+     53,
+     28
+    ],
+    "id": 36867,
+    "title": "Shark Skin Man and Peach Hip Girl",
+    "original_language": "ja",
+    "original_title": "鮫肌男と桃尻女",
+    "overview": "In dreamlike mountain scenery, Toshiko makes a daring escape from her sexually warped Uncle Sonezaki. Fortunately, she met Samehada as she runs for her life, which is also escaping from some slayers. What follows is a wild chase that leads the audience into a comically violent world.",
+    "popularity": 2.4961,
+    "poster_path": "/31rPJUTmffhsKmCT996kKIBflkL.jpg",
+    "release_date": "1999-02-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.862,
+    "vote_count": 58
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/p50HYSyMidXCniPLydRVQvxTAH0.jpg",
+    "genre_ids": [
+     28,
+     80,
+     18,
+     53
+    ],
+    "id": 36884,
+    "title": "No Retreat, No Surrender 3: Blood Brothers",
+    "original_language": "en",
+    "original_title": "No Retreat, No Surrender 3: Blood Brothers",
+    "overview": "Two feuding brothers of differing political views, one a policeman, the other a martial artist, join forces to avenge the death of their father, a retired agent who was brutally murdered by the mafia.",
+    "popularity": 3.3912,
+    "poster_path": "/3r3ENoHaOt4dUrqRKiKa3sqfMa0.jpg",
+    "release_date": "1990-01-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 98
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/qXguGlOoYwIcg8A4Swt2Mivojrm.jpg",
+    "genre_ids": [
+     27,
+     878
+    ],
+    "id": 36992,
+    "title": "Shakma",
+    "original_language": "en",
+    "original_title": "Shakma",
+    "overview": "A murderous baboon escapes from a laboratory and roams the research building, and begins to kill some teenagers who are also in the building playing a Dungeons-and-Dragons type game.",
+    "popularity": 2.5895,
+    "poster_path": "/aVrOi48ZJGmUPGYtFGnQtqgFSzJ.jpg",
+    "release_date": "1990-10-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.485,
+    "vote_count": 101
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/8SByVmuLzQDpITwotmFFdTo1qEp.jpg",
+    "genre_ids": [
+     28,
+     53,
+     10751
+    ],
+    "id": 37172,
+    "title": "Athadu",
+    "original_language": "te",
+    "original_title": "అతడు",
+    "overview": "A hitman, Nandu, is hired to stage the assassination of a politician. However, when the politician is actually killed and Nandu is framed for the murder, he assumes a dead man's identity to evade the law.",
+    "popularity": 1.3496,
+    "poster_path": "/ojZAu2KOemaDEfLnJXZeuU9QQko.jpg",
+    "release_date": "2005-08-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 83
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/t49An9icOxWpOFLmpBvfJBhQjb6.jpg",
+    "genre_ids": [
+     12,
+     53,
+     18
+    ],
+    "id": 37198,
+    "title": "Inferno",
+    "original_language": "en",
+    "original_title": "Inferno",
+    "overview": "When selfish and arrogant millionaire Donald Carson fractures his leg during a desert vacation, his wife, Geraldine, leaves with their friend Joseph Duncan to supposedly get help. However, the two of them are really lovers who are leaving Carson to die in the heat. Slowly, Carson realizes he is on his own and vows revenge on the traitorous couple. Having had a privileged life, Carson must now use his wits to stay alive.",
+    "popularity": 1.5907,
+    "poster_path": "/2jND5Ez8I1gcWvF0XCWXkcm2SIS.jpg",
+    "release_date": "1953-08-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.156,
+    "vote_count": 45
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/7kER0WLFiphGURwDHLp213aH2jt.jpg",
+    "genre_ids": [
+     28,
+     12,
+     18,
+     14
+    ],
+    "id": 1067163,
+    "title": "Bakuryū Sentai Abarenjā with Donburazāzu",
+    "original_language": "ja",
+    "original_title": "爆竜戦隊アバレンジャーwithドンブラザーズ",
+    "overview": "Yukito, who gave Shinichi Saruhara/Saru Brother chiropractic treatment sees that Shinichi and Haruka Kito/Oni Sister are Super Sentai members, causing Ryoga to reveal that they are the Bakuryuu Sentai Abaranger. While listening to their story, Shinichi is shocked to discover the big difference of personality between AbaRed and Don Momotaro. A Hitosuki later appears.",
+    "popularity": 1.0032,
+    "poster_path": "/6TJBbLfIexOTTb2kebBCVgOfX8m.jpg",
+    "release_date": "2023-08-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 5
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg",
+    "genre_ids": [
+     18,
+     878,
+     35
+    ],
+    "id": 301337,
+    "title": "Downsizing",
+    "original_language": "en",
+    "original_title": "Downsizing",
+    "overview": "A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.",
+    "popularity": 10.6013,
+    "poster_path": "/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+    "release_date": "2017-12-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.426,
+    "vote_count": 4236
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "jonlikesmoviesthatdontsuck",
+    "author_details": {
+     "name": "",
+     "username": "jonlikesmoviesthatdontsuck",
+     "avatar_path": null,
+     "rating": null
+    },
+    "content": "I was a huge fan of the original 3 movies, they were out when I was younger, and I grew up loving dinosaurs because of them. This movie was awesome, and I think it can stand as a testimonial piece towards the capabilities that Christopher Pratt has. He nailed it. The graphics were awesome, the supporting cast did great and the t rex saved the child in me. 10\\5 stars, four thumbs up, and I hope that star wars episode VII doesn't disappoint,",
+    "created_at": "2015-06-29T08:36:17Z",
+    "id": "55910381c3a36807f900065d",
+    "updated_at": "2021-06-23T15:57:35Z",
+    "url": "https://www.themoviedb.org/review/55910381c3a36807f900065d"
+   },
+   {
+    "author": "Ganesan",
+    "author_details": {
+     "name": "Ganesan",
+     "username": "ganeshmogan16",
+     "avatar_path": null,
+     "rating": null
+    },
+    "content": "Overall action packed movie... But there should be more puzzles in the climax... But I really love the movie.... Excellent...",
+    "created_at": "2015-06-30T06:36:40Z",
+    "id": "559238f89251415df80000aa",
+    "updated_at": "2021-06-23T15:57:35Z",
+    "url": "https://www.themoviedb.org/review/559238f89251415df80000aa"
+   },
+   {
+    "author": "redTed",
+    "author_details": {
+     "name": "",
+     "username": "redTed",
+     "avatar_path": null,
+     "rating": 3
+    },
+    "content": "I've never been a fan of this series. The only impressive thing of the original was the graphics that were, at the time, breathtaking. But we all know great graphics alone can't save a film. \r\nI watched this new effort just to see how far CGI has come in the time since the original and I can safely say, not very far. From the opening scene with the terrible looking and poorly animated bird, it's obvious that CGI has reached its limits in recreating realistic content. \r\nAs for the film. The dreadful script and annoying characters helped me lose any interest after about 15 mins. Ok for the age r",
+    "created_at": "2015-11-04T09:58:37Z",
+    "id": "5639d6cd9251416d5201312c",
+    "updated_at": "2021-06-23T15:57:38Z",
+    "url": "https://www.themoviedb.org/review/5639d6cd9251416d5201312c"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 14
+ }
+}

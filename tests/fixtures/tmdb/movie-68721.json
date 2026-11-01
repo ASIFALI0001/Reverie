@@ -1,0 +1,920 @@
+{
+ "adult": false,
+ "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+ "belongs_to_collection": {
+  "id": 131292,
+  "name": "Iron Man Collection",
+  "poster_path": "/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
+  "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg"
+ },
+ "budget": 200000000,
+ "genres": [
+  {
+   "id": 28,
+   "name": "Action"
+  },
+  {
+   "id": 12,
+   "name": "Adventure"
+  },
+  {
+   "id": 878,
+   "name": "Science Fiction"
+  }
+ ],
+ "homepage": "https://www.marvel.com/movies/iron-man-3",
+ "id": 68721,
+ "imdb_id": "tt1300854",
+ "origin_country": [
+  "US"
+ ],
+ "original_language": "en",
+ "original_title": "Iron Man 3",
+ "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+ "popularity": 25.8719,
+ "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+ "production_companies": [
+  {
+   "id": 420,
+   "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+   "name": "Marvel Studios",
+   "origin_country": "US"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "US",
+   "name": "United States of America"
+  }
+ ],
+ "release_date": "2013-04-18",
+ "revenue": 1215577205,
+ "runtime": 130,
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "English",
+   "iso_639_1": "en",
+   "name": "English"
+  }
+ ],
+ "status": "Released",
+ "tagline": "Unleash the power behind the armor.",
+ "title": "Iron Man 3",
+ "video": false,
+ "vote_average": 6.933,
+ "vote_count": 24051,
+ "credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 3223,
+    "known_for_department": "Acting",
+    "name": "Robert Downey Jr.",
+    "original_name": "Robert Downey Jr.",
+    "popularity": 11.0842,
+    "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+    "cast_id": 40,
+    "character": "Tony Stark",
+    "credit_id": "52fe47a0c3a368484e0d15ff",
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 12052,
+    "known_for_department": "Acting",
+    "name": "Gwyneth Paltrow",
+    "original_name": "Gwyneth Paltrow",
+    "popularity": 5.0841,
+    "profile_path": "/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg",
+    "cast_id": 6,
+    "character": "Pepper Potts",
+    "credit_id": "52fe479fc3a368484e0d157b",
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1896,
+    "known_for_department": "Acting",
+    "name": "Don Cheadle",
+    "original_name": "Don Cheadle",
+    "popularity": 4.3403,
+    "profile_path": "/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg",
+    "cast_id": 8,
+    "character": "Colonel James Rhodes",
+    "credit_id": "52fe479fc3a368484e0d157f",
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 529,
+    "known_for_department": "Acting",
+    "name": "Guy Pearce",
+    "original_name": "Guy Pearce",
+    "popularity": 3.7079,
+    "profile_path": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
+    "cast_id": 35,
+    "character": "Aldrich Killian",
+    "credit_id": "52fe47a0c3a368484e0d15eb",
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 15556,
+    "known_for_department": "Acting",
+    "name": "Rebecca Hall",
+    "original_name": "Rebecca Hall",
+    "popularity": 4.8598,
+    "profile_path": "/coC58ANiDbqRIyle5zEl9QDektf.jpg",
+    "cast_id": 13,
+    "character": "Maya Hansen",
+    "credit_id": "52fe479fc3a368484e0d158b",
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 15277,
+    "known_for_department": "Acting",
+    "name": "Jon Favreau",
+    "original_name": "Jon Favreau",
+    "popularity": 3.974,
+    "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
+    "cast_id": 14,
+    "character": "Happy Hogan",
+    "credit_id": "52fe479fc3a368484e0d158f",
+    "order": 5
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 2282,
+    "known_for_department": "Acting",
+    "name": "Ben Kingsley",
+    "original_name": "Ben Kingsley",
+    "popularity": 4.0802,
+    "profile_path": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg",
+    "cast_id": 9,
+    "character": "Trevor Slattery",
+    "credit_id": "52fe479fc3a368484e0d1583",
+    "order": 6
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 18473,
+    "known_for_department": "Acting",
+    "name": "James Badge Dale",
+    "original_name": "James Badge Dale",
+    "popularity": 2.6968,
+    "profile_path": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg",
+    "cast_id": 16,
+    "character": "Savin",
+    "credit_id": "52fe47a0c3a368484e0d1597",
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 121953,
+    "known_for_department": "Acting",
+    "name": "Stephanie Szostak",
+    "original_name": "Stephanie Szostak",
+    "popularity": 1.9891,
+    "profile_path": "/ejqFLxGCQ2CTRr63P4qgqVTpAFP.jpg",
+    "cast_id": 34,
+    "character": "Brandt",
+    "credit_id": "52fe47a0c3a368484e0d15e7",
+    "order": 8
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 6162,
+    "known_for_department": "Acting",
+    "name": "Paul Bettany",
+    "original_name": "Paul Bettany",
+    "popularity": 7.9403,
+    "profile_path": "/awlH20l93cgHOIDPNP6FCnGuIJy.jpg",
+    "cast_id": 12,
+    "character": "Jarvis (voice)",
+    "credit_id": "52fe479fc3a368484e0d1587",
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 6573,
+    "known_for_department": "Acting",
+    "name": "William Sadler",
+    "original_name": "William Sadler",
+    "popularity": 2.6323,
+    "profile_path": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg",
+    "cast_id": 15,
+    "character": "President Ellis",
+    "credit_id": "52fe479fc3a368484e0d1593",
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 46814,
+    "known_for_department": "Acting",
+    "name": "Dale Dickey",
+    "original_name": "Dale Dickey",
+    "popularity": 2.6089,
+    "profile_path": "/588WXHw17JYi2rAqIVQXzgYENu3.jpg",
+    "cast_id": 67,
+    "character": "Mrs. Davis",
+    "credit_id": "56596e699251410db1002a5c",
+    "order": 11
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 17181,
+    "known_for_department": "Acting",
+    "name": "Ty Simpkins",
+    "original_name": "Ty Simpkins",
+    "popularity": 3.546,
+    "profile_path": "/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg",
+    "cast_id": 37,
+    "character": "Harley Keener",
+    "credit_id": "52fe47a0c3a368484e0d15f3",
+    "order": 12
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 15860,
+    "known_for_department": "Acting",
+    "name": "Miguel Ferrer",
+    "original_name": "Miguel Ferrer",
+    "popularity": 2.4307,
+    "profile_path": "/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg",
+    "cast_id": 41,
+    "character": "Vice President Rodriguez",
+    "credit_id": "52fe47a0c3a368484e0d1603",
+    "order": 13
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 77303,
+    "known_for_department": "Acting",
+    "name": "Wang Xueqi",
+    "original_name": "王学圻",
+    "popularity": 2.489,
+    "profile_path": "/6ZWonDufaYcVeMmv1ZD8MZZZDeM.jpg",
+    "cast_id": 66,
+    "character": "Doctor Wu",
+    "credit_id": "56596e3cc3a36857dc0029e5",
+    "order": 14
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1108,
+    "known_for_department": "Writing",
+    "name": "Shane Black",
+    "original_name": "Shane Black",
+    "popularity": 2.1477,
+    "profile_path": "/fafBg8LjtQqsXyFg8ZgW7DHQXKt.jpg",
+    "credit_id": "52fe479fc3a368484e0d1577",
+    "department": "Directing",
+    "job": "Director"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1108,
+    "known_for_department": "Writing",
+    "name": "Shane Black",
+    "original_name": "Shane Black",
+    "popularity": 2.1477,
+    "profile_path": "/fafBg8LjtQqsXyFg8ZgW7DHQXKt.jpg",
+    "credit_id": "52fe47a0c3a368484e0d15cb",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 6041,
+    "known_for_department": "Sound",
+    "name": "Brian Tyler",
+    "original_name": "Brian Tyler",
+    "popularity": 1.7401,
+    "profile_path": "/wLPLAOcEgA9vfNuXSX1QI1ajguU.jpg",
+    "credit_id": "52fe47a0c3a368484e0d15e3",
+    "department": "Sound",
+    "job": "Original Music Composer"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1239407,
+    "known_for_department": "Writing",
+    "name": "Drew Pearce",
+    "original_name": "Drew Pearce",
+    "popularity": 0.9696,
+    "profile_path": "/4NQlBx0ttphcz4fdEd7t6qOVhFR.jpg",
+    "credit_id": "52fe47a0c3a368484e0d1657",
+    "department": "Writing",
+    "job": "Screenplay"
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 2483,
+    "known_for_department": "Camera",
+    "name": "John Toll",
+    "original_name": "John Toll",
+    "popularity": 0.9106,
+    "profile_path": "/cfL9A6tC7L5Ps5fq1o3WpVKGMb1.jpg",
+    "credit_id": "52fe47a0c3a368484e0d15dd",
+    "department": "Camera",
+    "job": "Director of Photography"
+   }
+  ]
+ },
+ "keywords": {
+  "keywords": [
+   {
+    "id": 387,
+    "name": "california"
+   },
+   {
+    "id": 1242,
+    "name": "war on terror"
+   },
+   {
+    "id": 9715,
+    "name": "superhero"
+   },
+   {
+    "id": 8613,
+    "name": "malibu"
+   },
+   {
+    "id": 9717,
+    "name": "based on comic"
+   },
+   {
+    "id": 9663,
+    "name": "sequel"
+   },
+   {
+    "id": 6335,
+    "name": "tennessee"
+   },
+   {
+    "id": 12547,
+    "name": "billionaire"
+   },
+   {
+    "id": 179430,
+    "name": "aftercreditsstinger"
+   },
+   {
+    "id": 180547,
+    "name": "marvel cinematic universe (mcu)"
+   },
+   {
+    "id": 260872,
+    "name": "america"
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt1300854",
+  "wikidata_id": "Q209538",
+  "facebook_id": "ironman",
+  "instagram_id": "",
+  "twitter_id": "iron_man"
+ },
+ "release_dates": {
+  "results": [
+   {
+    "iso_3166_1": "GB",
+    "release_dates": [
+     {
+      "certification": "12A",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2013-04-25T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "12",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2013-09-09T00:00:00.000Z",
+      "type": 5
+     }
+    ]
+   },
+   {
+    "iso_3166_1": "US",
+    "release_dates": [
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "",
+      "release_date": "2013-05-03T00:00:00.000Z",
+      "type": 3
+     },
+     {
+      "certification": "PG-13",
+      "descriptors": [],
+      "iso_639_1": "",
+      "note": "Blu-ray / DVD",
+      "release_date": "2013-09-24T00:00:00.000Z",
+      "type": 5
+     }
+    ]
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Tony Stark Learns the Truth About Trevor Slattery - Official Clip",
+    "key": "uqyqwrWV5HM",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "6961bfd2de0d93a812f408ba",
+    "published_at": "2026-01-09T19:00:56.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Iron Man Suits Save Tony and Rhodey - Official Clip",
+    "key": "Fg-FXVnp5KY",
+    "site": "YouTube",
+    "size": 2160,
+    "type": "Clip",
+    "official": true,
+    "id": "6949e401bba2840a8a812b45",
+    "published_at": "2025-12-18T17:00:00.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Marvel's Iron Man 3 - TV Spot 1",
+    "key": "VcZdrfDeJTo",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Teaser",
+    "official": true,
+    "id": "6853518b074385950b79add8",
+    "published_at": "2013-03-25T19:05:15.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Domestic Trailer 2",
+    "key": "YLorLVa95Xo",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Trailer",
+    "official": true,
+    "id": "533ec6bfc3a3685448006992",
+    "published_at": "2013-03-06T17:03:35.000Z"
+   },
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Domestic Trailer",
+    "key": "f_h95mEd4TI",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Trailer",
+    "official": true,
+    "id": "58fa0b73c3a3687c5a00b364",
+    "published_at": "2012-10-23T17:38:08.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+    "id": 10138,
+    "title": "Iron Man 2",
+    "original_title": "Iron Man 2",
+    "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+    "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     28,
+     878
+    ],
+    "popularity": 25.6689,
+    "release_date": "2010-04-28",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.855,
+    "vote_count": 23117
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+    "id": 640146,
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "original_title": "Ant-Man and the Wasp: Quantumania",
+    "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     28,
+     12,
+     878
+    ],
+    "popularity": 22.7939,
+    "release_date": "2023-02-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.204,
+    "vote_count": 6205
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+    "id": 100402,
+    "title": "Captain America: The Winter Soldier",
+    "original_title": "Captain America: The Winter Soldier",
+    "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+    "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     28,
+     12,
+     878
+    ],
+    "popularity": 19.615,
+    "release_date": "2014-03-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.654,
+    "vote_count": 20638
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "id": 284054,
+    "title": "Black Panther",
+    "original_title": "Black Panther",
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     28,
+     12,
+     878
+    ],
+    "popularity": 31.8683,
+    "release_date": "2018-02-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.361,
+    "vote_count": 24138
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+    "id": 271110,
+    "title": "Captain America: Civil War",
+    "original_title": "Captain America: Civil War",
+    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     12,
+     28,
+     878
+    ],
+    "popularity": 34.1606,
+    "release_date": "2016-04-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.455,
+    "vote_count": 24757
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+    "id": 141052,
+    "title": "Justice League",
+    "original_title": "Justice League",
+    "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+    "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     28,
+     12,
+     878
+    ],
+    "popularity": 21.9684,
+    "release_date": "2017-11-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.063,
+    "vote_count": 14056
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "id": 283995,
+    "title": "Guardians of the Galaxy Vol. 2",
+    "original_title": "Guardians of the Galaxy Vol. 2",
+    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     878,
+     12,
+     28
+    ],
+    "popularity": 28.2246,
+    "release_date": "2017-04-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.609,
+    "vote_count": 23635
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+    "id": 609681,
+    "title": "The Marvels",
+    "original_title": "The Marvels",
+    "overview": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+     878,
+     12,
+     28
+    ],
+    "popularity": 17.9152,
+    "release_date": "2023-11-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.898,
+    "vote_count": 3713
+   }
+  ],
+  "total_pages": 23,
+  "total_results": 460
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+    "genre_ids": [
+     14,
+     28,
+     80
+    ],
+    "id": 268,
+    "title": "Batman",
+    "original_language": "en",
+    "original_title": "Batman",
+    "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+    "popularity": 15.1196,
+    "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "release_date": "1989-06-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.234,
+    "vote_count": 8894
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+    "genre_ids": [
+     18,
+     80,
+     28
+    ],
+    "id": 272,
+    "title": "Batman Begins",
+    "original_language": "en",
+    "original_title": "Batman Begins",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "popularity": 31.1456,
+    "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+    "release_date": "2005-06-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.731,
+    "vote_count": 23399
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+    "genre_ids": [
+     28,
+     53,
+     878
+    ],
+    "id": 296,
+    "title": "Terminator 3: Rise of the Machines",
+    "original_language": "en",
+    "original_title": "Terminator 3: Rise of the Machines",
+    "overview": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor … just like he promised.",
+    "popularity": 16.9192,
+    "poster_path": "/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+    "release_date": "2003-07-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.214,
+    "vote_count": 7580
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "genre_ids": [
+     12,
+     14,
+     28
+    ],
+    "id": 285,
+    "title": "Pirates of the Caribbean: At World's End",
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: At World's End",
+    "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "popularity": 26.9845,
+    "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "release_date": "2007-05-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.279,
+    "vote_count": 15968
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/cxAr9Su5gYfx16vxtS2Zi6qc5DZ.jpg",
+    "genre_ids": [
+     28,
+     14,
+     80
+    ],
+    "id": 314,
+    "title": "Catwoman",
+    "original_language": "en",
+    "original_title": "Catwoman",
+    "overview": "Liquidated after discovering a corporate conspiracy, mild-mannered graphic artist Patience Phillips washes up on an island, where she's resurrected and endowed with the prowess of a cat — and she's eager to use her new skills... as a vigilante. Before you can say \"cat and mouse\", handsome gumshoe Tom Lone is on her tail, fascinated by both of her personas.",
+    "popularity": 9.5713,
+    "poster_path": "/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
+    "release_date": "2004-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 4.639,
+    "vote_count": 3730
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/v6lvnMHYPMVhc0t08gKYJNpMijC.jpg",
+    "genre_ids": [
+     28,
+     35,
+     80
+    ],
+    "id": 2661,
+    "title": "Batman",
+    "original_language": "en",
+    "original_title": "Batman",
+    "overview": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+    "popularity": 6.6481,
+    "poster_path": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+    "release_date": "1966-07-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.368,
+    "vote_count": 1112
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/5ceIqlRzWH4x1IPU9OfjXHO2Kz6.jpg",
+    "genre_ids": [
+     10751,
+     35,
+     16,
+     878
+    ],
+    "id": 268531,
+    "title": "Captain Underpants: The First Epic Movie",
+    "original_language": "en",
+    "original_title": "Captain Underpants: The First Epic Movie",
+    "overview": "Based on the bestselling book series, this outrageous comedy tells the story of George and Harold,  two overly imaginative pranksters who hypnotize their principal into thinking he’s an enthusiastic, yet dimwitted, superhero named Captain Underpants.",
+    "popularity": 13.1846,
+    "poster_path": "/vKSmaPct5OEeMoD8ue30RisHlKD.jpg",
+    "release_date": "2017-06-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.316,
+    "vote_count": 1406
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/xLXaoqEejsyJOvzTf0iTMM23NYF.jpg",
+    "genre_ids": [
+     27,
+     878
+    ],
+    "id": 3074,
+    "title": "The Ghost of Frankenstein",
+    "original_language": "en",
+    "original_title": "The Ghost of Frankenstein",
+    "overview": "Frankenstein's unscrupulous colleague, Dr. Bohmer, plans to transplant Ygor's brain so he can rule the world using the monster's body, but the plan goes sour when he turns malevolent and goes on a rampage.",
+    "popularity": 2.6643,
+    "poster_path": "/aGKJ2kjNXHCLyWKMx3b8D5kKCag.jpg",
+    "release_date": "1942-03-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 181
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "DoryDarko",
+    "author_details": {
+     "name": "",
+     "username": "DoryDarko",
+     "avatar_path": "/6y4blHHtu7cIRYsZdfSgse0Cxrr.jpg",
+     "rating": 5
+    },
+    "content": "There can be many reasons why the original director of a franchise may decide not to return for a sequel, though they all usually have in common that they're very Hollywood-politically-correct. So exactly why Jon Favreau decided not to helm the third instalment of what is, for all intents and purposes, 'his baby' Iron Man, I can't be sure. But I can tell you one thing: something definitely changed.\r\n\r\nEverything about IM3 feels different from its predecessors. The atmosphere is darker, which is not to say it's really just a lot less humorous (which is – let's be honest – precisely what we love",
+    "created_at": "2017-02-21T13:58:57Z",
+    "id": "58ac47a1c3a36849e0012c9a",
+    "updated_at": "2021-06-23T15:57:54Z",
+    "url": "https://www.themoviedb.org/review/58ac47a1c3a36849e0012c9a"
+   },
+   {
+    "author": "tmdb55636115",
+    "author_details": {
+     "name": "",
+     "username": "tmdb55636115",
+     "avatar_path": null,
+     "rating": 2
+    },
+    "content": "This was probably the first time a movie has made me this angry in the theater.  It pissed me off then and it still pisses me off when it's on television.  If I could summarize this film in one word, it would be: obnoxious.  I wasn't really hyped for this film but I was expecting to have some fun since I did enjoy the previous Iron Man films.  This was the movie that made me start to dislike the character of Tony Stark/Iron Man (RDJ is still the man though).  Stark's narcissism had charm in the previous films but here, it made him into a complete idiot, dick, and coward. The Mandarin had poten",
+    "created_at": "2017-07-09T02:47:52Z",
+    "id": "596199589251410b860cc5ef",
+    "updated_at": "2021-06-23T15:57:59Z",
+    "url": "https://www.themoviedb.org/review/596199589251410b860cc5ef"
+   },
+   {
+    "author": "Dark Jedi",
+    "author_details": {
+     "name": "Dark Jedi",
+     "username": "Dark Jedi",
+     "avatar_path": null,
+     "rating": 5
+    },
+    "content": "I have to say that I was somewhat disappointed by this third instalment of the Iron Man series of movies. Sure Robert Downey Jr. as Tony Stark is quite funny (not always but a lot of the time) and there are plenty of nice special effects and things being blown up.\r\n\r\nHowever, the story is just crap. The premise of Killian using the Mandarin for terrorism to cover up the fact that his experiments occasionally fails is just ludicrous. The Mandarin himself is a joke and another good example of how ignorant script writers just pick names out of existing material and uses them not caring how much t",
+    "created_at": "2018-01-25T20:22:16Z",
+    "id": "5a6a3c789251412255003272",
+    "updated_at": "2024-05-16T15:21:16Z",
+    "url": "https://www.themoviedb.org/review/5a6a3c789251412255003272"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 13
+ }
+}

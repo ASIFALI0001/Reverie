@@ -1,0 +1,1182 @@
+{
+ "adult": false,
+ "backdrop_path": "/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+ "created_by": [],
+ "episode_run_time": [
+  22
+ ],
+ "first_air_date": "2006-10-04",
+ "genres": [
+  {
+   "id": 16,
+   "name": "Animation"
+  },
+  {
+   "id": 9648,
+   "name": "Mystery"
+  },
+  {
+   "id": 10765,
+   "name": "Sci-Fi & Fantasy"
+  }
+ ],
+ "homepage": "http://www.ntv.co.jp/deathnote/",
+ "id": 13916,
+ "in_production": false,
+ "languages": [
+  "ja"
+ ],
+ "last_air_date": "2007-06-27",
+ "last_episode_to_air": {
+  "id": 1146047,
+  "name": "New World",
+  "overview": "Though Mikami has written all the investigators' names in the Death Note, a minute passes and everyone is still alive. Near seizes Mikami's Death Note, and all is at last revealed.",
+  "vote_average": 8.4,
+  "vote_count": 53,
+  "air_date": "2007-06-27",
+  "episode_number": 37,
+  "episode_type": "finale",
+  "production_code": "",
+  "runtime": 22,
+  "season_number": 1,
+  "show_id": 13916,
+  "still_path": "/85nG6sUrczzZVATIXP9JJvNMuSo.jpg"
+ },
+ "name": "Death Note",
+ "next_episode_to_air": null,
+ "networks": [
+  {
+   "id": 57,
+   "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+   "name": "Nippon TV",
+   "origin_country": "JP"
+  }
+ ],
+ "number_of_episodes": 37,
+ "number_of_seasons": 1,
+ "origin_country": [
+  "JP"
+ ],
+ "original_language": "ja",
+ "original_name": "DEATH NOTE",
+ "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+ "popularity": 55.3384,
+ "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+ "production_companies": [
+  {
+   "id": 3464,
+   "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+   "name": "Madhouse",
+   "origin_country": "JP"
+  },
+  {
+   "id": 6755,
+   "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+   "name": "Nippon Television Network Corporation",
+   "origin_country": "JP"
+  },
+  {
+   "id": 14789,
+   "logo_path": "/dThbJAnUAeQCANrj3kV7RGnLM7R.png",
+   "name": "D.N. Dream Partners",
+   "origin_country": "JP"
+  },
+  {
+   "id": 11725,
+   "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+   "name": "VAP",
+   "origin_country": "JP"
+  },
+  {
+   "id": 2918,
+   "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+   "name": "Shueisha",
+   "origin_country": "JP"
+  }
+ ],
+ "production_countries": [
+  {
+   "iso_3166_1": "JP",
+   "name": "Japan"
+  }
+ ],
+ "seasons": [
+  {
+   "air_date": "2006-10-04",
+   "episode_count": 37,
+   "id": 59776,
+   "name": "Season 1",
+   "overview": "",
+   "poster_path": "/1BloDOEmKxPFzbCIuNCLmCrcx6L.jpg",
+   "season_number": 1,
+   "vote_average": 7.9
+  }
+ ],
+ "softcore": false,
+ "spoken_languages": [
+  {
+   "english_name": "Japanese",
+   "iso_639_1": "ja",
+   "name": "日本語"
+  }
+ ],
+ "status": "Ended",
+ "tagline": "The human whose name is written in this note shall die.",
+ "type": "Scripted",
+ "vote_average": 8.6,
+ "vote_count": 5224,
+ "aggregate_credits": {
+  "cast": [
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 93803,
+    "known_for_department": "Acting",
+    "name": "Mamoru Miyano",
+    "original_name": "宮野真守",
+    "popularity": 4.3414,
+    "profile_path": "/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "52582cad760ee36aaa8987ba",
+      "character": "Light Yagami (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 0
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 68472,
+    "known_for_department": "Acting",
+    "name": "Kappei Yamaguchi",
+    "original_name": "山口勝平",
+    "popularity": 3.6724,
+    "profile_path": "/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "649afd562975ca0144cd238e",
+      "character": "L (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 1
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 72202,
+    "known_for_department": "Acting",
+    "name": "Shidou Nakamura",
+    "original_name": "中村獅童",
+    "popularity": 3.5693,
+    "profile_path": "/dMyf8ZoHD5xkld66h8bEw9QgQZI.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "649afca72975ca01254b6060",
+      "character": "Ryuk (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 2
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 144650,
+    "known_for_department": "Acting",
+    "name": "Aya Hirano",
+    "original_name": "平野綾",
+    "popularity": 4.2474,
+    "profile_path": "/AvbCkdSXoKgrQAyG08b4WdGKoX5.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "649afdf97e3483011c229a25",
+      "character": "Misa Amane (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 3
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 55662,
+    "known_for_department": "Acting",
+    "name": "Noriko Hidaka",
+    "original_name": "日髙のり子",
+    "popularity": 2.7822,
+    "profile_path": "/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "5a0b077392514130cd01b77f",
+      "character": "Near (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1679,
+    "known_for_department": "Acting",
+    "name": "Nozomu Sasaki",
+    "original_name": "佐々木望",
+    "popularity": 2.5482,
+    "profile_path": "/7usoPlvc9Xa1rDA2vxmVi0OvLDb.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "5a0b07b0c3a3682109019756",
+      "character": "Mello (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 5
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1241603,
+    "known_for_department": "Acting",
+    "name": "Kimiko Saito",
+    "original_name": "斉藤貴美子",
+    "popularity": 2.182,
+    "profile_path": "/rPP0jCjtLuEEroY3e2aRT8zonYK.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "59e1b334c3a3680e8000cf28",
+      "character": "Rem (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 6
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 224462,
+    "known_for_department": "Acting",
+    "name": "Naoya Uchida",
+    "original_name": "内田直哉",
+    "popularity": 3.1995,
+    "profile_path": "/i1Vl4QbiEsyATmX2HSH2rIEyzeS.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "658c757dcd204612e313b142",
+      "character": "Soichiro Yagami (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 558672,
+    "known_for_department": "Acting",
+    "name": "Ryou Naitou",
+    "original_name": "内藤玲",
+    "popularity": 2.2814,
+    "profile_path": "/bWdGQuWNQO7zeF2UKlTQi0DzhUf.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "658c75a4ebb99d09e4ef0de6",
+      "character": "Touta Matsuda (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 8
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 9708,
+    "known_for_department": "Acting",
+    "name": "Keiji Fujiwara",
+    "original_name": "藤原啓治",
+    "popularity": 2.2487,
+    "profile_path": "/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "658c7707cd204612e313b1af",
+      "character": "Shuichi Aizawa (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 9
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 84507,
+    "known_for_department": "Acting",
+    "name": "Kazuya Nakai",
+    "original_name": "中井和哉",
+    "popularity": 3.901,
+    "profile_path": "/cOHSa0FBrG3u9P6g8A56sInkvod.jpg",
+    "total_episode_count": 37,
+    "roles": [
+     {
+      "credit_id": "658efe72d4cc8e61b3e99ff6",
+      "character": "Kanzo Mogi (voice)",
+      "episode_count": 37
+     }
+    ],
+    "order": 10
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1133286,
+    "known_for_department": "Acting",
+    "name": "Ai Satou",
+    "original_name": "さとうあい",
+    "popularity": 1.8569,
+    "profile_path": "/uKAk0Aw4GvFUqB8VVwQVC1gptce.jpg",
+    "total_episode_count": 11,
+    "roles": [
+     {
+      "credit_id": "59247eacc3a36877fd002151",
+      "character": "Sachiko Yagami (voice)",
+      "episode_count": 11
+     }
+    ],
+    "order": 503
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1241659,
+    "known_for_department": "Acting",
+    "name": "Haruka Kudou",
+    "original_name": "工藤晴香",
+    "popularity": 2.6576,
+    "profile_path": "/9DmIx4Cgsg5c4BsS5rUJlRLShBD.jpg",
+    "total_episode_count": 9,
+    "roles": [
+     {
+      "credit_id": "5925c8379251413b45013724",
+      "character": "Sayu Yagami (voice)",
+      "episode_count": 9
+     }
+    ],
+    "order": 504
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 82508,
+    "known_for_department": "Acting",
+    "name": "Kiyoshi Kobayashi",
+    "original_name": "小林清志",
+    "popularity": 2.1396,
+    "profile_path": "/xuaKE1xvHHU4gq2bYVlPQ4rEwQV.jpg",
+    "total_episode_count": 6,
+    "roles": [
+     {
+      "credit_id": "5925d0409251413b410135f8",
+      "character": "Watari (voice)",
+      "episode_count": 6
+     }
+    ],
+    "order": 7
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 87585,
+    "known_for_department": "Acting",
+    "name": "Naoko Matsui",
+    "original_name": "松井菜桜子",
+    "popularity": 1.8762,
+    "profile_path": "/xtBpoWzP90fY2od1Y90D83mMZ2G.jpg",
+    "total_episode_count": 3,
+    "roles": [
+     {
+      "credit_id": "59a8419cc3a3683c7a01b269",
+      "character": "Naomi Misora (voice)",
+      "episode_count": 3
+     }
+    ],
+    "order": 508
+   }
+  ],
+  "crew": [
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 1361295,
+    "known_for_department": "Art",
+    "name": "Mio Isshiki",
+    "original_name": "一色美緒",
+    "popularity": 0.5624,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "592453509251413b5b00073e",
+      "job": "Art Direction",
+      "episode_count": 37
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 37
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 2536494,
+    "known_for_department": "Art",
+    "name": "Shinji Sugiyama",
+    "original_name": "杉山晋史",
+    "popularity": 0.8272,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "6207fe8d93388b00df0f59e9",
+      "job": "Art Designer",
+      "episode_count": 37
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 37
+   },
+   {
+    "adult": false,
+    "gender": 1,
+    "id": 219559,
+    "known_for_department": "Directing",
+    "name": "Kiyoko Sayama",
+    "original_name": "佐山聖子",
+    "popularity": 1.2024,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "6356dddbd18fb9007fc259aa",
+      "job": "Storyboard Artist",
+      "episode_count": 5
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 5
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1148353,
+    "known_for_department": "Directing",
+    "name": "Tetsuro Araki",
+    "original_name": "荒木哲郎",
+    "popularity": 2.0051,
+    "profile_path": "/oEdiTbFLMJDSGUSDe8a48VbueGJ.jpg",
+    "jobs": [
+     {
+      "credit_id": "637be8de88b14800c8b45f84",
+      "job": "Storyboard Artist",
+      "episode_count": 4
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1579858,
+    "known_for_department": "Art",
+    "name": "Michio Fukuda",
+    "original_name": "福田道生",
+    "popularity": 1.5338,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "64519910105611015693e199",
+      "job": "Storyboard Artist",
+      "episode_count": 4
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 4
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 570213,
+    "known_for_department": "Directing",
+    "name": "Takashi Anno",
+    "original_name": "安濃高志",
+    "popularity": 1.4558,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "5924662fc3a3687870001291",
+      "job": "Storyboard Designer",
+      "episode_count": 3
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 3
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1362698,
+    "known_for_department": "Directing",
+    "name": "Tomohiko Ito",
+    "original_name": "伊藤智彦",
+    "popularity": 3.1633,
+    "profile_path": "/GyFpjtodiP19QlMue8Yu41N3gG.jpg",
+    "jobs": [
+     {
+      "credit_id": "64988d5403bf8400af153f15",
+      "job": "Storyboard Artist",
+      "episode_count": 3
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 3
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1206321,
+    "known_for_department": "Visual Effects",
+    "name": "Junichi Takaoka",
+    "original_name": "高岡淳一",
+    "popularity": 0.8961,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "59245eaa9251413b4a000f2c",
+      "job": "Storyboard Designer",
+      "episode_count": 2
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1046842,
+    "known_for_department": "Directing",
+    "name": "Minoru Ohara",
+    "original_name": "大原実",
+    "popularity": 1.3511,
+    "profile_path": null,
+    "jobs": [
+     {
+      "credit_id": "61d33bd6d19a33008e7a3100",
+      "job": "Storyboard Artist",
+      "episode_count": 2
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 2
+   },
+   {
+    "adult": false,
+    "gender": 2,
+    "id": 1456789,
+    "known_for_department": "Art",
+    "name": "Shinsaku Sasaki",
+    "original_name": "笹木信作",
+    "popularity": 0.9371,
+    "profile_path": "/gIjYF8vegOuvIZsfv2UzH8GMf4h.jpg",
+    "jobs": [
+     {
+      "credit_id": "61e0bf75cb5c8e0042a8bd72",
+      "job": "Storyboard Artist",
+      "episode_count": 2
+     }
+    ],
+    "department": "Art",
+    "total_episode_count": 2
+   }
+  ]
+ },
+ "keywords": {
+  "results": [
+   {
+    "name": "detective",
+    "id": 703
+   },
+   {
+    "name": "journalism",
+    "id": 917
+   },
+   {
+    "name": "secret identity",
+    "id": 1308
+   },
+   {
+    "name": "police",
+    "id": 6149
+   },
+   {
+    "name": "supernatural",
+    "id": 6152
+   },
+   {
+    "name": "sociopath",
+    "id": 9740
+   },
+   {
+    "name": "rivalry",
+    "id": 9823
+   },
+   {
+    "name": "murder",
+    "id": 9826
+   },
+   {
+    "name": "serial killer",
+    "id": 10714
+   },
+   {
+    "name": "grim reaper",
+    "id": 11187
+   },
+   {
+    "name": "psychological thriller",
+    "id": 12565
+   },
+   {
+    "name": "based on manga",
+    "id": 13141
+   },
+   {
+    "name": "justice",
+    "id": 15108
+   },
+   {
+    "name": "death",
+    "id": 34079
+   },
+   {
+    "name": "ethical dilemma",
+    "id": 185740
+   },
+   {
+    "name": "shounen",
+    "id": 207826
+   },
+   {
+    "name": "anime",
+    "id": 210024
+   },
+   {
+    "name": "shinigami",
+    "id": 242145
+   },
+   {
+    "name": "time skip",
+    "id": 244663
+   },
+   {
+    "name": "magic book",
+    "id": 244895
+   },
+   {
+    "name": "psychological",
+    "id": 272553
+   },
+   {
+    "name": "fantastic",
+    "id": 287341
+   },
+   {
+    "name": "prosocial psychopath",
+    "id": 288868
+   },
+   {
+    "name": "horror",
+    "id": 315058
+   }
+  ]
+ },
+ "external_ids": {
+  "imdb_id": "tt0877057",
+  "freebase_mid": "/m/02_2rby",
+  "freebase_id": null,
+  "tvdb_id": 79481,
+  "tvrage_id": null,
+  "wikidata_id": "Q718624",
+  "facebook_id": null,
+  "instagram_id": null,
+  "twitter_id": null
+ },
+ "content_ratings": {
+  "results": [
+   {
+    "descriptors": [],
+    "iso_3166_1": "US",
+    "rating": "TV-14"
+   },
+   {
+    "descriptors": [],
+    "iso_3166_1": "GB",
+    "rating": "15"
+   },
+   {
+    "descriptors": [],
+    "iso_3166_1": "IN",
+    "rating": "U/A 16+"
+   }
+  ]
+ },
+ "videos": {
+  "results": [
+   {
+    "iso_639_1": "en",
+    "iso_3166_1": "US",
+    "name": "Official Trailer",
+    "key": "NlJZ-YgAt-c",
+    "site": "YouTube",
+    "size": 1080,
+    "type": "Trailer",
+    "official": true,
+    "id": "629b7307d71fb474decdfa4f",
+    "published_at": "2019-12-16T17:17:25.000Z"
+   }
+  ]
+ },
+ "recommendations": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/5EhDY6z8R2ZJENDcnwvwGmFOZ56.jpg",
+    "id": 34809,
+    "name": "Ghost Hunt",
+    "original_name": "ゴーストハント",
+    "overview": "Telling ghost stories is a favorite past time of Mai Taniyama and her friends—that is, until she meets 17-year-old Kazuya Shibuya, the man sent by Shibuya Psychic Research Center to investigate paranormal activity at a supposedly haunted school. When Mai gets caught in a dangerous situation, she is rescued by Kazuya's assistant. Saving her lands the assistant incapacitated, and Kazuya demands that Mai become his assistant, instead...",
+    "poster_path": "/c6NdT9BDcEfIYtL0CmJEtjhVi4.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     18,
+     9648
+    ],
+    "popularity": 10.4039,
+    "first_air_date": "2006-10-03",
+    "softcore": false,
+    "vote_average": 8,
+    "vote_count": 45,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/kv2bTCFllGzwaxy0ZVdOGPOxfWY.jpg",
+    "id": 243141,
+    "name": "YATAGARASU: The Raven Does Not Choose Its Master",
+    "original_name": "烏は主を選ばない",
+    "overview": "Welcome to Yamauchi, a world inhabited by the Yatagarasu, a race of three-legged ravens who shapeshift into humans. The land is divided into four regions—North, South, East, and West—each ruled by a noble family. Yukiya, the son of a leader in the North, is shocked by a call to attend to the Imperial Prince. Murder, mysteries, and an invasion from an unexpected enemy await in this epic fantasy.",
+    "poster_path": "/bCUChAf6BvXtZ7LGfFRBob3Zk5B.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     18,
+     10765
+    ],
+    "popularity": 13.2424,
+    "first_air_date": "2024-04-06",
+    "softcore": false,
+    "vote_average": 8.2,
+    "vote_count": 20,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/9EVQLSslxwSPiOqBufrzr7guJQ5.jpg",
+    "id": 216523,
+    "name": "Ron Kamonohashi's Forbidden Deductions",
+    "original_name": "鴨乃橋ロンの禁断推理",
+    "overview": "Ron Kamonohashi was once regarded as a genius at the top detective training academy. But after a fatal mistake, he was expelled and forbidden to become a detective. Years later, police officer Totomaru Isshiki knocks on Ron’s door seeking help on a serial murder case. He finds Ron, now a messy-haired recluse, who agrees. Together, this mismatched detective team begins solving their first mystery!",
+    "poster_path": "/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     9648,
+     80,
+     10759
+    ],
+    "popularity": 19.3751,
+    "first_air_date": "2023-10-02",
+    "softcore": false,
+    "vote_average": 6.8,
+    "vote_count": 55,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/bqxlYvG2dYcNHZGv8YErHH8NMC2.jpg",
+    "id": 68185,
+    "name": "Occultic;Nine",
+    "original_name": "Occultic;Nine -オカルティック・ナイン-﻿",
+    "overview": "The \"paranormal science\" story follows nine idiosyncratic individuals, linked by the \"Choujou Kagaku Kirikiri Basara\" occult summary blog run by 17-year-old second-year high school student Yuuta Gamon. Little incongruities that occur around these nine eventually lead to a larger, unimaginable event that may alter what is considered common sense in this world.",
+    "poster_path": "/6AJZ01EbztFZcur5HbiKVNnSJ8l.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     10765,
+     9648
+    ],
+    "popularity": 10.3665,
+    "first_air_date": "2016-10-09",
+    "softcore": false,
+    "vote_average": 6.1,
+    "vote_count": 31,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/gAqAdxCOS0Rdo7agYhG1qU7OMou.jpg",
+    "id": 46283,
+    "name": "Blast of Tempest",
+    "original_name": "絶園のテンペスト",
+    "overview": "The Kusaribe family is a family of sorcerers under the protection of the ‘Tree of Origins.’ Their princess, Hakaze Kusaribe, was the greatest sorceress of their family. But Samon Kusaribe, a member of their family seeking to resurrect the ‘Tree of World's End,’ a tree that opposes the ‘Tree of Origins’ and controls the power of destruction, stuffs her into a barrel, and banishes her to a deserted island.",
+    "poster_path": "/iUU9HoXlExmFCEO8p9oceJqYlDP.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     10759,
+     10765
+    ],
+    "popularity": 11.1392,
+    "first_air_date": "2012-10-05",
+    "softcore": false,
+    "vote_average": 7.921,
+    "vote_count": 107,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/jK9HlovnISpiraw75B0o6qxlMbw.jpg",
+    "id": 283891,
+    "name": "The Holy Grail of Eris",
+    "original_name": "エリスの聖杯",
+    "overview": "Betrayed by her fiancé's lover and sentenced to public execution, Constance Grail, a plain viscount's daughter known for her honesty, faces death—until a mysterious voice offers salvation. Scarlett Castiel, a noblewoman long thought dead, may be her only hope. Together, these unlikely allies uncover a dark conspiracy lurking in the heart of high society, where betrayal, secrets, and power collide.",
+    "poster_path": "/1rwm3nle6jWdJSQbe2TX7NxwHFY.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     9648,
+     10765
+    ],
+    "popularity": 11.8858,
+    "first_air_date": "2026-01-08",
+    "softcore": false,
+    "vote_average": 7.4,
+    "vote_count": 24,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/sicm3KhlaSVppqaUx7n7h33LPqk.jpg",
+    "id": 69225,
+    "name": "ACCA: 13-Territory Inspection Dept.",
+    "original_name": "ACCA13区監察課",
+    "overview": "\"ACCA\" is a giant unified syndicate residing in a kingdom split into 13 autonomous regions. ACCA was formed back when there was threat of a coup d'etat, and has continued to protect the peace for almost one hundred years. Jean Otus, vice-chairman of the inspections department at ACCA headquarters, wanders through the 13 districts, checking to see if there is any foul play afoot. His quiet everyday life slowly gets swallowed up into the world's conspiracies!",
+    "poster_path": "/levpmW2U8QClpQYqYcpFAVw3vDq.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     80,
+     18,
+     9648
+    ],
+    "popularity": 14.3767,
+    "first_air_date": "2017-01-10",
+    "softcore": false,
+    "vote_average": 7.2,
+    "vote_count": 64,
+    "origin_country": [
+     "JP"
+    ]
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/am20HBMkHcs2487Dl0n07Cb1gCO.jpg",
+    "id": 63495,
+    "name": "SCHOOL-LIVE!",
+    "original_name": "がっこうぐらし!",
+    "overview": "Yuki Takeya, Kurumi Ebisuzawa, Yuri Wakasa, and Miki Naoki decide to stay over at school. Along with the school adviser Megumi Sakura, they suddenly find themselves to be the final survivors of a zombie attack, and continue to live and survive at the school.",
+    "poster_path": "/9emJgQBvRrUiTobsbEmArDG7qFF.jpg",
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+     16,
+     18,
+     9648,
+     10765
+    ],
+    "popularity": 10.9183,
+    "first_air_date": "2015-07-09",
+    "softcore": false,
+    "vote_average": 8.3,
+    "vote_count": 143,
+    "origin_country": [
+     "JP"
+    ]
+   }
+  ],
+  "total_pages": 17,
+  "total_results": 331
+ },
+ "similar": {
+  "page": 1,
+  "results": [
+   {
+    "adult": false,
+    "backdrop_path": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+    "genre_ids": [
+     35,
+     18,
+     10765
+    ],
+    "id": 95,
+    "origin_country": [
+     "US"
+    ],
+    "original_language": "en",
+    "original_name": "Buffy the Vampire Slayer",
+    "overview": "Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
+    "popularity": 91.1533,
+    "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+    "first_air_date": "1997-03-10",
+    "softcore": false,
+    "name": "Buffy the Vampire Slayer",
+    "vote_average": 8.1,
+    "vote_count": 2092
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/dQOZFpC2p2OSxOxHMAZc8EKQPhr.jpg",
+    "genre_ids": [
+     9648,
+     80
+    ],
+    "id": 93355,
+    "origin_country": [
+     "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "我心深触",
+    "overview": "A criminal psychologist with the ability to see the past through touch and a fearless reporter with a dual personality join forces with a detective to solve a serial murder case and catch the killer.",
+    "popularity": 3.4032,
+    "poster_path": "/hNyxYF2PXpQrraDVHSaeQpKIbk4.jpg",
+    "first_air_date": "2019-06-19",
+    "softcore": false,
+    "name": "Deep in My Heart",
+    "vote_average": 8,
+    "vote_count": 1
+   },
+   {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+     10765,
+     9648
+    ],
+    "id": 59525,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "恐怖劇場アンバランス",
+    "overview": "Horror Theater Unbalance is a 1973 Japanese Anthology television series created by Tsuburaya and Fuji TV to air on the Fuji TV network on Monday Nights for 13 episodes.\n\nOriginally started in production in 1969, it was shelved and took years for its airing debut to begin its broadcast, before production was eventually completed at the end of 1972. It was then aired on Fuji TV in 1973.",
+    "popularity": 3.3932,
+    "poster_path": "/3PzkaxZVweEGYpQqtS8Gz1Zzv12.jpg",
+    "first_air_date": "1973-01-08",
+    "softcore": false,
+    "name": "Horror Theater Unbalance",
+    "vote_average": 0,
+    "vote_count": 0
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/ogmhmHVMRdZ4kRmdm0XiHY7OkIK.jpg",
+    "genre_ids": [
+     10759,
+     10765,
+     18
+    ],
+    "id": 32,
+    "origin_country": [
+     "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Rounin",
+    "overview": "Rounin is a 2007 Filipino primetime TV series produced and aired by ABS-CBN. It is a fantasy and martial arts series shown in Philippine TV and is said to be one of the most expensive locally-produced TV series aired in the Philippines. It is also the first Filipino series shot using high-definition video technology. The series is line produced by Reality Films while Larger Than Life Productions is handling post, visual effects, VFX supervision, mastering and grading. The series is shot using Panasonic’s HDP2 technology. The series ended after one season due to failure to do well in the ratings game.",
+    "popularity": 7.6287,
+    "poster_path": "/9P2UrFxoQBZ2pib7sF1AJfBpRRm.jpg",
+    "first_air_date": "2007-04-16",
+    "softcore": false,
+    "name": "Rounin",
+    "vote_average": 6.2,
+    "vote_count": 3
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/1lIwuFEKNiykZwxKbGjalCq8GSL.jpg",
+    "genre_ids": [
+     16,
+     10762,
+     35,
+     10765
+    ],
+    "id": 93483,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "だぁ! だぁ! だぁ!",
+    "overview": "Daa! Daa! Daa! UFO Baby is a Japanese children's animated television series produced by J.C.Staff, Directed by Hiroaki Sakurai, and was aired on NHK-BS2 from March 28, 2000 to February 26, 2002.",
+    "popularity": 17.3621,
+    "poster_path": "/s9SmF9cEg8HATdjGv56ysy4PgIe.jpg",
+    "first_air_date": "2000-03-28",
+    "softcore": false,
+    "name": "Daa! Daa! Daa! UFO Baby",
+    "vote_average": 8.4,
+    "vote_count": 59
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/vWnYTzeqEMus0zzuWoriJ5GF26J.jpg",
+    "genre_ids": [
+     18,
+     80,
+     9648
+    ],
+    "id": 136,
+    "origin_country": [
+     "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Thriller",
+    "overview": "Thriller is a British television series, originally broadcast in the UK from 1973 to 1976. It is an anthology series: each episode has a self-contained story and its own cast. As the title suggests, each story is a thriller of some variety, from tales of the supernatural to down-to-earth whodunits.",
+    "popularity": 17.6294,
+    "poster_path": "/bRfxYga00zCB29fha9zWLsed0tn.jpg",
+    "first_air_date": "1973-04-14",
+    "softcore": false,
+    "name": "Thriller",
+    "vote_average": 7,
+    "vote_count": 12
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/92E2kg0wcQMuyPRUjqzRfV9lHMa.jpg",
+    "genre_ids": [
+     16,
+     35,
+     18,
+     10765
+    ],
+    "id": 209604,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～",
+    "overview": "After a rebellion overthrows the Tearmoon Empire, Princess Mia meets her demise by guillotine at just 20 years old. She awakens eight years in the past, given a second chance at life. Haunted by her memory of the guillotine, the princess sets out to rebuild the empire and prevent a return to fate. Can the selfish princess learn to be a selfless leader, even though she’s trying to save herself?",
+    "popularity": 16.8243,
+    "poster_path": "/ukaAsrpMczWl2AP7l27uYwdunvB.jpg",
+    "first_air_date": "2023-10-08",
+    "softcore": false,
+    "name": "Tearmoon Empire",
+    "vote_average": 7.1,
+    "vote_count": 29
+   },
+   {
+    "adult": false,
+    "backdrop_path": "/ealhnLoDyO5t3OqNKr89UIG7fxR.jpg",
+    "genre_ids": [
+     16,
+     10759
+    ],
+    "id": 209423,
+    "origin_country": [
+     "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "テニスの王子様 全国大会篇",
+    "overview": "Seigaku continues their road to winning the National Championship, but only the best schools remain as they'll have to go toe-to-toe with old rivals and new foes in the National Tournament.",
+    "popularity": 11.2301,
+    "poster_path": "/6oInE1fqr7L8fECJGclEL9B4duT.jpg",
+    "first_air_date": "2006-03-24",
+    "softcore": false,
+    "name": "The Prince of Tennis: The National Tournament",
+    "vote_average": 7.6,
+    "vote_count": 5
+   }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+ },
+ "reviews": {
+  "page": 1,
+  "results": [
+   {
+    "author": "Zak_Jaggs",
+    "author_details": {
+     "name": "",
+     "username": "Zak_Jaggs",
+     "avatar_path": null,
+     "rating": 10
+    },
+    "content": "My favourite ever series not just of anime but TV in general, Death Note is simply beautiful television. The production is amazing from great animation to brilliant music and wonderful performances in English and Japanese. The characters of Light, L, Ryuk, Misa and so on are all truly iconic and entertaining, with Light Yagami being my favourite ever fictional character (he is a brilliant psychopath) and his rivalry with L being simply incredible. Episodes 25 and 37 stand-out as two of the greatest episodes of any TV show ever, especially episode 37 which releases the brilliantly built-up tens",
+    "created_at": "2024-12-19T23:33:03Z",
+    "id": "6764ad2f8e9d9ccdeb90bac6",
+    "updated_at": "2024-12-24T02:54:08Z",
+    "url": "https://www.themoviedb.org/review/6764ad2f8e9d9ccdeb90bac6"
+   },
+   {
+    "author": "GoodTimeData",
+    "author_details": {
+     "name": "",
+     "username": "GoodTimeData",
+     "avatar_path": "/y5hX86OT2IOUtVprhRznWXZuUYL.png",
+     "rating": 10
+    },
+    "content": "Such a great anime; if you're not into anime, Death Note is a welcome mat, a hello, and a welcome to the best of anime. A great intellect battle in a TV show and  delivering a compelling story deep and dark and one of the most philosophically dense manga ever written. It's a genuine philosophical argument about power, justice, and human nature.",
+    "created_at": "2026-10-14T00:07:29Z",
+    "id": "6acec7c13f62dde6c8aacd90",
+    "updated_at": "2026-10-14T04:00:40Z",
+    "url": "https://www.themoviedb.org/review/6acec7c13f62dde6c8aacd90"
+   }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+ }
+}
