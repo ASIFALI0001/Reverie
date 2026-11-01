@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { LegalLink, LegalPage, LegalSection, SupportLine } from "@/components/legal/LegalPage";
 import { env } from "@/lib/env";
 import { COOKIE_NOTICE_KEY } from "@/lib/legal";
+import { MUSIC_PREF_KEY } from "@/lib/music";
 
 export const metadata: Metadata = {
   title: "Cookie Policy",
@@ -12,7 +13,8 @@ export const metadata: Metadata = {
 type Row = { name: string; where?: string; what: string; kind: "Essential" | "Functional" | "Preference"; lasts: string };
 
 // Kept in step with the code: lib/auth/constants.ts, lib/theme.ts, lib/social/pending-invite.ts,
-// components/auth/GoogleButton.tsx, components/library/LibraryView.tsx, lib/store/onboarding.ts, lib/legal.ts.
+// components/auth/GoogleButton.tsx, components/library/LibraryView.tsx, lib/store/onboarding.ts, lib/legal.ts,
+// lib/music.ts.
 const COOKIES: Row[] = [
   {
     name: "rv_session",
@@ -35,6 +37,7 @@ const STORAGE: Row[] = [
   { name: "rv:pending-invite", where: "Local storage", what: "Holds a friend’s invite you opened, so it still works after you sign up.", kind: "Functional", lasts: "Until used, at most 7 days" },
   { name: "reverie-theme", where: "Local storage", what: "Your light or dark theme.", kind: "Preference", lasts: "Until you change it" },
   { name: "reverie-library-view", where: "Local storage", what: "Grid or list view in your library.", kind: "Preference", lasts: "Until you change it" },
+  { name: MUSIC_PREF_KEY, where: "Local storage", what: "Whether you turned off the background music on the home and About pages.", kind: "Preference", lasts: "Until you change it" },
   { name: COOKIE_NOTICE_KEY, where: "Local storage", what: "Remembers that you’ve seen the cookie notice.", kind: "Preference", lasts: "Until you clear it" },
 ];
 

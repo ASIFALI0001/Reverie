@@ -51,3 +51,6 @@ next-env.d.ts
 # screenshots stay local; the site's own images in public/ ship with it
 *.png
 !/public/**/*.png
+
+# source audio dropped in the project root; the site plays the web copy in public/audio/
+/*.mp3

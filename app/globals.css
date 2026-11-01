@@ -616,6 +616,24 @@
   animation: about-scroll-line 2.4s cubic-bezier(0.65, 0, 0.35, 1) 1.6s infinite;
 }
 
+/* The sound toggle's equalizer (components/fx/SiteMusic.tsx): bars rest low, and dance only while the music plays. */
+@keyframes music-bar {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+.music-bar {
+  transform: scaleY(0.35);
+  transform-origin: bottom;
+}
+.music-on .music-bar {
+  animation: music-bar 0.9s ease-in-out infinite;
+}
+
 /* About: a pinned chapter is one screen plus its scroll length (--pin), reserved in the CSS from the
    start, with its stage stuck to the viewport while the section scrolls past. Nothing is inserted
    later (lazy scenes would otherwise shift everything below an anchor jump), and it works without
@@ -656,6 +674,11 @@
   .about-after,
   .about-scroll-line {
     animation: none;
+  }
+  /* Playing, the bars stand still at full height instead of dancing. */
+  .music-on .music-bar {
+    animation: none;
+    transform: scaleY(0.8);
   }
   .skeleton::after,
   .beam::before,

@@ -17,6 +17,10 @@ Know you'll love it before you press play. Reverie is a discovery app for movies
 - **Taste Twins**: anonymous people whose taste is closest to yours; their ratings nudge your match, and you can connect when you both want to.
 - **Admin**: a control room for the owner (users, taste, library, moderation with an audit log), behind a Firebase custom claim.
 - **About** (`/about`): the whole story in sixteen animated chapters, with live miniatures of the real components.
+- **Sound**: visitors who aren't signed in hear background music on the landing page and About, with a **Sound** toggle in the corner.
+  - It starts at their first click, tap or key (browsers allow sound only after one) and keeps playing between the two pages.
+  - It fades out anywhere else and when the tab is hidden. A mute is remembered.
+  - To change the track, replace `public/audio/theme.mp3`. A 128 kbps MP3 keeps the download small.
 
 ## Stack
 

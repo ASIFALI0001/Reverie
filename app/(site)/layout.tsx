@@ -4,6 +4,7 @@ import { Footer } from "@/components/layout/Footer";
 import { Suspense } from "react";
 import { CommandPalette } from "@/components/search/CommandPalette";
 import { SocialLayer } from "@/components/social/SocialLayer";
+import { SiteMusic } from "@/components/fx/SiteMusic";
 
 export default function SiteLayout({ children }: LayoutProps<"/">) {
   return (
@@ -25,6 +26,11 @@ export default function SiteLayout({ children }: LayoutProps<"/">) {
         <Footer />
       </div>
       <Dock />
+      {/* Lives in the layout, so the music carries on between the landing page and About. It reads the
+          URL too, so it gets its own boundary. */}
+      <Suspense fallback={null}>
+        <SiteMusic />
+      </Suspense>
       <CommandPalette />
       {/* Reads the URL (to stay quiet during onboarding), so it gets its own boundary. */}
       <Suspense fallback={null}>

@@ -1,7 +1,7 @@
 /** The legal pages and the cookie notice share these (and the e2e config pre-dismisses the notice with them). */
 
 /** Shown as "Last updated" on the Terms, Privacy and Cookie pages. */
-export const LEGAL_UPDATED = "29 October 2026";
+export const LEGAL_UPDATED = "1 November 2026";
 
 export const LEGAL_DOCS = [
   { href: "/terms", label: "Terms of Service" },
