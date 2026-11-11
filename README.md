@@ -17,6 +17,11 @@ Know you'll love it before you press play. Reverie is a discovery app for movies
 - **Taste Twins**: anonymous people whose taste is closest to yours; their ratings nudge your match, and you can connect when you both want to.
 - **Admin**: a control room for the owner (users, taste, library, moderation with an audit log), behind a Firebase custom claim.
 - **About** (`/about`): the whole story in sixteen animated chapters, with live miniatures of the real components.
+- **Streaming sites** (`/streaming`, linked in the footer): logo cards for official streaming services, each opening the service in a new tab. To add one:
+  1. Drop a square logo (about 300×300, PNG/JPG/SVG/WebP) in `public/streaming-logos/`.
+  2. Add one line to the `SITES` list at the top of `app/(site)/streaming/page.tsx`.
+  - Use lowercase file names: Vercel's servers treat `Zee5.png` and `zee5.png` as different files.
+  - `npx playwright test e2e/streaming.spec.ts` checks every card's link and logo.
 - **Sound**: visitors who aren't signed in hear background music on the landing page and About, with a **Sound** toggle in the corner.
   - It starts at their first click, tap or key (browsers allow sound only after one) and keeps playing between the two pages.
   - It fades out anywhere else and when the tab is hidden. A mute is remembered.

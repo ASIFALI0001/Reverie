@@ -43,11 +43,11 @@ function AccountSlot() {
 
 function NavLinks({ pathname }: { pathname: string | null }) {
   return (
-    <ul className="flex items-center gap-7">
+    <ul className="flex items-center gap-5 lg:gap-7">
       {PRIMARY_LINKS.map((link) => {
         const active = pathname != null && isActive(pathname, link.href);
         return (
-          <li key={link.href}>
+          <li key={link.href} className={link.wideOnly ? "hidden lg:block" : undefined}>
             <DeferredLink
               href={link.href}
               transitionTypes={["nav"]}
@@ -126,7 +126,7 @@ export function Nav() {
         )}
       />
 
-      <div className="page flex h-[var(--nav-h)] items-center gap-10">
+      <div className="page flex h-[var(--nav-h)] items-center gap-6 lg:gap-10">
         <DeferredLink href="/" transitionTypes={["nav"]} aria-label="Reverie, home" className="shrink-0 rounded-full">
           <Logo animate />
         </DeferredLink>
@@ -141,7 +141,9 @@ export function Nav() {
           <Suspense fallback={<AboutLink pathname={null} />}>
             <ActiveAboutLink />
           </Suspense>
-          <SearchTrigger className="hidden lg:flex" />
+          {/* From 1280px: below that the bar holds six links and the account controls, and Search
+              (the link, Ctrl K or /) opens the same palette. */}
+          <SearchTrigger className="hidden xl:flex" />
           <ThemeToggle />
           <AccountSlot />
         </div>

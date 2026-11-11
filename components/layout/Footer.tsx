@@ -6,6 +6,7 @@ const EXPLORE = [
   { href: "/search", label: "Search" },
   { href: "/library", label: "Library" },
   { href: "/watchlist", label: "Watchlist" },
+  { href: "/streaming", label: "Streaming sites" },
   { href: "/about", label: "About Reverie" },
 ];
 
